@@ -6,7 +6,7 @@ A collection of awesome Qubes OS links
   - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
   - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
-  - [Qubes OS News](https://www.qubes-os.org/news/) - Qubes OS News
+  - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
@@ -18,6 +18,7 @@ A collection of awesome Qubes OS links
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
 ## Videos
-  - [UX ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
+ 
+ - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
       - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
       - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
