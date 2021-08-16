@@ -13,7 +13,7 @@ A collection of awesome Qubes OS links
   
 ## VPN
   - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-  - [Mullvad VPN](https://micahflee.com/2019/11/using-mullvad-in-qubes/) - Privacy first VPN provider.
+  - [Mullvad VPN](https://micahflee.com/2019/11/using-mullvad-in-qubes/) - Privacy first VPN providerin Qubes OS.
   - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
