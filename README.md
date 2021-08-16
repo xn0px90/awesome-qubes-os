@@ -26,3 +26,14 @@ A collection of awesome Qubes OS links
  - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
       - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
       - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+## Social media
+
+The Qubes OS Project has a presence on the following social media platforms:
+
+* [Twitter](https://twitter.com/QubesOS)
+* [Reddit](https://www.reddit.com/r/Qubes/)
+* [Facebook](https://www.facebook.com/QubesOS/)
+* [LinkedIn](https://www.linkedin.com/company/qubes-os/)
+* Matrix, Qubes-related: <https://matrix.to/#/#cybersec-qubes_os:matrix.org>
+* Matrix, strictly Qubes: <https://matrix.to/#/#Qubes-OS:matrix.org>
+* `#qubes` channel on libera.chat via traditional IRC clients
