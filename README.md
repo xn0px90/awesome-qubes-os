@@ -8,6 +8,13 @@ A collection of awesome Qubes OS links
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
+## Tepmlates
+  - []()
+
+
+
+
+
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
