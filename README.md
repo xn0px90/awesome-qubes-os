@@ -7,6 +7,8 @@ A collection of awesome Qubes OS links
   - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
+  - [Qubes OS 4.0.4 Download](https://www.qubes-os.org/downloads/)
+  - [Qubes 4.1 weekly builds download](https://qubes.notset.fr/iso/)
 
 ## Templates
   - [Win7](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
