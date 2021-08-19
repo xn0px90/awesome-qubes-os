@@ -8,7 +8,7 @@ A collection of awesome Qubes OS links
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
-## Tepmlates
+## Templates
   - []()
 
 
