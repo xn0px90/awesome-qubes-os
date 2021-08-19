@@ -9,7 +9,13 @@ A collection of awesome Qubes OS links
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
 ## Templates
-  - []()
+  - [Win7](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+  - [Win10](https://github.com/elliotkillick/qvm-create-windows-qube)
+  - [CentOS](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+  - [Gentoo](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+  - [NetBSD](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+  - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+  - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
 
 
