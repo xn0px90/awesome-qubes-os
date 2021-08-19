@@ -8,7 +8,7 @@ A collection of awesome Qubes OS links
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
   - [Qubes OS 4.0.4 Download](https://www.qubes-os.org/downloads/)
-  - [Qubes 4.1 weekly builds download](https://qubes.notset.fr/iso/)
+  - [Qubes 4.1 Weekly Builds Download](https://qubes.notset.fr/iso/)
 
 ## Templates
   - [Win7](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
@@ -18,10 +18,6 @@ A collection of awesome Qubes OS links
   - [NetBSD](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
-
-
-
-
 
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
