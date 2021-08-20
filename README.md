@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=master)](https://travis-ci.com/xn0px90/Awesome-Qubes-OS/)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
 # Awesome-Qubes-OS
 A collection of awesome Qubes OS links
 
