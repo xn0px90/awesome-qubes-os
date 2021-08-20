@@ -17,6 +17,7 @@ A collection of awesome Qubes OS links
   - [Gentoo](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
   - [NetBSD](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+  - [Parrotsec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
 ## Remote-Desktop
