@@ -44,7 +44,7 @@ A collection of awesome Qubes OS links
 
 The Qubes OS Project has a presence on the following social media platforms:
 
-* [Forum]()
+* [Forum](https://forum.qubes-os.org/)
 * [Twitter](https://twitter.com/QubesOS)
 * [Reddit](https://www.reddit.com/r/Qubes/)
 * [Facebook](https://www.facebook.com/QubesOS/)
