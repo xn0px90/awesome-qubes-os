@@ -21,8 +21,10 @@ A collection of awesome Qubes OS links
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
   - [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
+
 ##Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
@@ -41,8 +43,8 @@ A collection of awesome Qubes OS links
  - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
       - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
       - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-## Social media
 
+## Social media
 The Qubes OS Project has a presence on the following social media platforms:
 
 * [Forum](https://forum.qubes-os.org/)
