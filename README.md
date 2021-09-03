@@ -22,7 +22,7 @@ A collection of awesome Qubes OS links
   - [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
-##Automation
+## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
 ## Remote-Desktop
