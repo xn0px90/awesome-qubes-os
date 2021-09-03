@@ -21,7 +21,8 @@ A collection of awesome Qubes OS links
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
   - [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
-
+##Automation
+  - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
