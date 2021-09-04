@@ -8,6 +8,7 @@ A collection of awesome Qubes OS links
   - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
   - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
+  - [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
   - [Qubes OS 4.0.4](https://www.qubes-os.org/downloads/) - Qubes OS 4.0.4 Download
   - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Download
