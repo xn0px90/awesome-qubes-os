@@ -10,8 +10,8 @@ A collection of awesome Qubes OS links
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
-  - [Qubes OS 4.0.4](https://www.qubes-os.org/downloads/) - Qubes OS 4.0.4 Download
-  - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Download
+  - [Qubes OS 4.0.4](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
+  - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
 
 ## Templates
   - [Win7](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
@@ -22,7 +22,8 @@ A collection of awesome Qubes OS links
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
   - [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
-
+## Networking Server 
+  - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
