@@ -10,7 +10,7 @@ A collection of awesome Qubes OS links
   - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
   - [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
-  - [Qubes OS 4.0.4](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
+  - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
   - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
 
 ## Templates
