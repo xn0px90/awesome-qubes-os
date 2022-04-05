@@ -6,4 +6,4 @@ before_script:
 script:
   - awesome_bot README.md --allow-dupe --allow-redirect
 notifications:
-  email: false
+  email: xn0px90@gmail.com
