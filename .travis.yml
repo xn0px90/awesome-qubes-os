@@ -18,4 +18,4 @@ script:
   - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then make check_pr; fi'
 
 notifications:
-  email: xn0px90@gmail.com
+  email:
