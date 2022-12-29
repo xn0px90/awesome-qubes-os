@@ -26,6 +26,7 @@ A collection of awesome Qubes OS links
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 ## VM-Hardening
   - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
+  - [kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
 ## Networking Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 ## Automation
