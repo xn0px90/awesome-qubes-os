@@ -24,6 +24,8 @@ A collection of awesome Qubes OS links
   - [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
   - [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
   - [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
+## VM-Hardening
+  - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
 ## Networking Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 ## Automation
