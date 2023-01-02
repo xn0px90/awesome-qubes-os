@@ -175,4 +175,5 @@ The Qubes OS Project has a presence on the following social media platforms:
 * [Discord](https://discord.gg/YMUbTt7ZRG)
 * [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
 * [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
+* [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 * `#qubes` channel on libera.chat via traditional IRC clients
