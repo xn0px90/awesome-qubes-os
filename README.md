@@ -68,6 +68,7 @@ A collection of awesome Qubes OS links
 ## VM-Hardening
   - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
   - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+  - [qcrypt](https://github.com/3hhh/qcrypt)
 ## Networking Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 ## Automation
