@@ -69,10 +69,15 @@ A collection of awesome Qubes OS links
   - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
   - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
   - [qcrypt](https://github.com/3hhh/qcrypt)
+  
 ## Networking Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+  
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+
+## Video & Screen Sharing
+   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
 
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
