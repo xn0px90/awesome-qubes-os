@@ -166,6 +166,11 @@ A collection of awesome Qubes OS links
 * [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 * [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
+##Qubes-OS Legends
+* [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
+* [Marek Marczykowski-Górecki](https://github.com/marmarek)
+* [unman](https://github.com/unman?tab=repositories)
+* You can be one to! You got this! Keep Qubing!
 
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
