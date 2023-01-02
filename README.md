@@ -89,7 +89,7 @@ A collection of awesome Qubes OS links
  - [3mdeb](https://3mdeb.com/)
       - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas) 
       - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-      -[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+      - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
  - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
  - [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
  - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
