@@ -14,10 +14,11 @@ A collection of awesome Qubes OS links
 
 ## Downloading, installing, and upgrading
 
-* [Downloading](https://www.qubes-os.org/downloads/)
-
-* [Installing)](https://www.qubes-os.org/doc/installation-guide/)
-* [Upgrading](https://www.qubes-os.org/doc/upgrade/)
+  - [Downloading](https://www.qubes-os.org/downloads/)
+  - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
+  - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
+  - [Installing)](https://www.qubes-os.org/doc/installation-guide/)
+  - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
 
 ## How-to guides
 
