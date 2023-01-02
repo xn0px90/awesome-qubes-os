@@ -174,6 +174,13 @@ A collection of awesome Qubes OS links
 * [Core Team](https://www.qubes-os.org/team/#core-team)
 * You can be one to! You got this! Keep Qubing!
 
+##Trainig
+* [xn0px90](https://patreon.com/xn0px90)
+
+##Streamers
+* [xn0px90](https://twitch.tv/xn0px90)
+* [info sec streamers](https://infosecstreams.com/)
+
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
 
