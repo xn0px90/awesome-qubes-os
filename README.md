@@ -174,10 +174,10 @@ A collection of awesome Qubes OS links
 * [Core Team](https://www.qubes-os.org/team/#core-team)
 * You can be one to! You got this! Keep Qubing!
 
-##Training
+## Training
 * [xn0px90](https://patreon.com/xn0px90)
 
-##Streamers
+## Streamers
 * [xn0px90](https://twitch.tv/xn0px90)
 * [infosecstreams](https://infosecstreams.com/)
 
