@@ -179,7 +179,7 @@ A collection of awesome Qubes OS links
 
 ##Streamers
 * [xn0px90](https://twitch.tv/xn0px90)
-* [info sec streamers](https://infosecstreams.com/)
+* [infosecstreams](https://infosecstreams.com/)
 
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
