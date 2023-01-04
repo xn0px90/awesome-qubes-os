@@ -75,6 +75,8 @@ A collection of awesome Qubes OS links
   
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+## Unikernels
+  - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels)
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
