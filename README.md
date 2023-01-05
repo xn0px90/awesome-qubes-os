@@ -75,12 +75,13 @@ A collection of awesome Qubes OS links
   
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+
 ## Unikernels
   - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels)
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
-
+   - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
@@ -89,9 +90,11 @@ A collection of awesome Qubes OS links
   - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
   - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+
 ## TOR
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+
 ## Videos
  - [3mdeb](https://3mdeb.com/)
       - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
