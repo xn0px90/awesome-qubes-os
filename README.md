@@ -62,7 +62,7 @@
 - [Kernels](#Kernels)
 - [Unikernels](#Unikernels)
 - [Unikernel-like](#Unikernel-like)
-- [Exploitation](#Exploitation)
+- [Exploitation Tools](#Exploitation-Tools)
 - [Xen](#Xen)
 - [Attacking Hypervisors](#Attacking-Hypervisors)
 - [VM-Hardening](#VM-Hardening)
@@ -217,7 +217,7 @@
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 - [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
   
-## Exploitation
+## Exploitation Tools
   - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
   - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
