@@ -118,9 +118,8 @@
   - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
   - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
-## Vitualization
-  - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
-## TOR`
+
+## TOR
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
 
@@ -158,6 +157,9 @@
 * [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 * [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
 * [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
+## Vitualization
+  - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
   - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
