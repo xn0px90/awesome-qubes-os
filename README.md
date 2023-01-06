@@ -27,15 +27,14 @@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-                    _                                    ___   
+                    _                                    ___      __                 ___  ___
                    /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
                   / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
                  /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
-       
 
 [![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)\
 
 A collection of awesome Qubes OS links
 
@@ -46,13 +45,14 @@ A collection of awesome Qubes OS links
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
-## Downloading, installing, and upgrading
+## Downloading, installing, upgrading and building
 
   - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
   - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
   - [Installing)](https://www.qubes-os.org/doc/installation-guide/)
   - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
+  - [Building](https://github.com/QubesOS/qubes-builderv2)
 
 ## How-to guides
 
