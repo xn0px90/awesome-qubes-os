@@ -75,8 +75,8 @@
 - [Social media](#Social-media)
 - [Contributing](#Contributing)
 - [Releases](#Releases)
-    - [Adventure Further](#Adventure-Further)
-    - [License](#License)
+- [Adventure Further](#Adventure-Further)
+- [License](#License)
 
 ## QubesOS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
