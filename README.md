@@ -59,11 +59,11 @@
 - [TOR](#TOR)
 - [Videos](#Videos)
 - [Security](#Security)
-- [Xen](#Xen)
 - [Kernels](#Kernels)
 - [Unikernels](#Unikernels)
 - [Unikernel-like](#Unikernel-like)
 - [Exploitation](#Exploitation)
+- [Xen](#Xen)
 - [Attacking Hypervisors](#Attacking-Hypervisors)
 - [VM-Hardening](#VM-Hardening)
 - [System](#System)
@@ -200,16 +200,6 @@
 ## Vitualization
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
-### Xen
-
-- [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
-- [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-- [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-- [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-- [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
-- [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-- [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
-- [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
@@ -248,6 +238,17 @@
        - [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
        - [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
        - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+
+## Xen
+
+- [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
+- [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+- [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+- [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+- [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+- [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
+- [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
+- [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
 ## Attacking Hypervisors
 
