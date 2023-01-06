@@ -33,11 +33,14 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@/**********///////////(///////////////////////////@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&******///////&@@@@@@@#/////////////////////@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&@@@@@@@@@@@@@@@@@&////////////&
+   /_\__ __ _____ ___ ___ _ __  ___ ___ / _ \ _  _| |__  ___ ______ / _ \/ __|
+  / _ \ V  V / -_|_-</ _ \ '  \/ -_)___| (_) | || | '_ \/ -_|_-<___| (_) \__ \
+ /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___
 
 [![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
-    
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)\
+
 # Awesome-Qubes-OS
 A collection of awesome Qubes OS links
 
