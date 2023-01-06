@@ -1,3 +1,11 @@
+# Avesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+
+
+
+
+
 
 
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -32,37 +40,43 @@
                   / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
                  /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
 
-[![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
 
-# A collection of awesome Qubes OS links
 
-<details open="open">
-  <summary>Contents</summary>
-  <ol>
-      <ul>
-        <li><a href="#system-requirements">System Requirements</a></li>
-        <li><a href="#downloading-installing-and-upgrading">Downloading, installing, and upgrading</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#how-to-guides">How-to Guides</a>
-    </li>
-    <li><a href="#templates">Templates</a></li>  
-    <li><a href="#conferences-and-events">Conferences and Events</a></li>
-    <li><a href="#advanced-topics">Advanced Topics</a></li>
-    <ul>
-        <li><a href="#security">Security</a></li>
-        <li><a href="#system">System</a></li>
-      <ul>
-        <li><a href="#services">Services</a></li>
-      </ul>
-      </ul>
-    <li><a href="#online-communities">Online Communities</a></li>
-    <li><a href="#releases">Releases</a></li>
-  </ol>
-</details>
+# A curated list of awesome Qubes OS links
+
+## Table of Contents
+
+- [QuibesOS Websites](#QubesOS-Website)
+- [System Requirements](#System-Requirements)
+- [Downloading, Installing, Upgrading and Building](#Downloading,-Installing,-Upgrading-and-Building)
+- [How-to guides](How-to-guides)
+- [Templates](#Templates)
+- [Networking Server](Networking-Server)
+- [Automation](#Automation)
+- [Video & Screen Sharing](#Video-&-Screen-Sharing)
+- [Remote-Desktop](#Remote-Desktop)
+- [VPN](#VPN)
+- [TOR](#TOR)
+- [Videos](#Videos)
+- [Security](#Security)
+- [Xen](#Xen)
+- [Kernels](#Kernels)
+- [Unikernels](#Unikernels)
+- [Unikernel-like](#Unikernel-like)
+- [Exploitation](#Exploitation)
+- [Attacking Hypervisors](#Attacking-Hypervisors)
+- [VM-Hardening](#VM-Hardening)
+- [System](#System)
+- [Services](#Services)
+- [Advanced Topics](#Advanced-Topics)
+- [Qubes OS Legends](#Qubes-OS-Legends)
+- [Training](#Training)
+- [Companies using Qubes OS](#Companies-using-Qubes-OS)
+- [Social media](#Social-media)
+- [Contributing](#Contributing)
+- [Releases](#Releases)
+- [License](#License)
+
 
 ## QubesOS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
@@ -186,6 +200,17 @@
 ## Vitualization
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
+### Xen
+
+- [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
+- [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+- [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+- [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+- [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+- [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
+- [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
+- [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
+
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
   - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
@@ -202,7 +227,7 @@
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 - [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
   
-## Exploit Developent
+## Exploitation
   - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
   - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
@@ -223,6 +248,16 @@
        - [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
        - [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
        - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+
+## Attacking Hypervisors
+
+- [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo&t=3s)
+- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+- [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
+- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
+- [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
 
 
 ## VM-Hardening
