@@ -141,7 +141,7 @@
 ## Custom Desktop   
    - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
    - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-   -[dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+   -[suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
    
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
