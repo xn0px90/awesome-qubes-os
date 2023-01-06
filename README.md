@@ -47,23 +47,25 @@
   - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
  
 ## System Requirements
-
 - [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
 - [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
 ## Downloading, Installing, Upgrading and Building
-
   - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
   - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
   - [Installing](https://www.qubes-os.org/doc/installation-guide/)
   - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
   - [Building](https://github.com/QubesOS/qubes-builderv2)
-
+  
+## Kernels
+  - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+  - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+  - [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
+  
 ## Exploit Developent
-
   - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
   - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
@@ -86,7 +88,6 @@
        * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## How-to guides
-
 - [How to update](https://www.qubes-os.org/doc/how-to-update/)
 - [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
 - [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
@@ -102,7 +103,6 @@
 - [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
 
 ## Templates
-
 - [Templates](https://www.qubes-os.org/doc/templates/)
 - [Template: Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
 - [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
@@ -175,7 +175,6 @@
  -[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 
 ## Security
-
 * [Firewall](https://www.qubes-os.org/doc/firewall/)
 * [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 * [Passwordless root access in qubes](https://www.qubes-os.org/doc/vm-sudo/)
@@ -196,7 +195,6 @@
 * [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
 
 ## System
-
 * [Architecture](https://www.qubes-os.org/doc/architecture/)
 * [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
 * [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
@@ -211,7 +209,6 @@
 * [Template manager](https://www.qubes-os.org/doc/template-manager/)
 
 ## Services
-
 * [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 * [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 * [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
@@ -244,7 +241,6 @@
 * [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
 ## Qubes OS Legends
-
 * [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 * [Marek Marczykowski-Górecki](https://github.com/marmarek)
 * [unman](https://github.com/unman?tab=repositories)
@@ -261,7 +257,6 @@
 
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
-
 * [Forum](https://forum.qubes-os.org/)
 * [Twitter](https://twitter.com/QubesOS)
 * [Reddit](https://www.reddit.com/r/Qubes/)
