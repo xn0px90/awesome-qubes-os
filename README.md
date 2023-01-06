@@ -104,7 +104,7 @@
 
 
 ## Video & Screen Sharing
-   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
+   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
 ## Custom Desktop   
    - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
    - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
