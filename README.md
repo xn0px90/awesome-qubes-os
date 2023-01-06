@@ -67,7 +67,7 @@
   - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
   - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
-  - [radare2](https://github.com/radareorg/radare2) - Radare2: Libre Reversing Framework for Unix Geeks
+  - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
   - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
   - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
@@ -134,7 +134,7 @@
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
 ## Unikernels
-  - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels)
+  - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
