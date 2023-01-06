@@ -355,7 +355,7 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 - [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
 
 ## Adventure Further
-- [Adventures start here --->](https://github.com/sindresorhus/awesome)
+- [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: 
 
 ## License
 
