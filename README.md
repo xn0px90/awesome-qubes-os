@@ -1,7 +1,13 @@
+<h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Qubes </h1>
+<p align="center">security-focused desktop operating system that aims to provide security through isolation.</p>
 
-[![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
+<a href="https://www.qubes-os.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/200px-Qubes_OS_Logo.svg.png" alt="Qubes OS Logo" align="left" style="margin-right: 25px" height=150></a>
+
+
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+
+> Contributions *very welcome* but first see [Contributing](#contributing)
+
 # Awesome-Qubes-OS
 A collection of awesome Qubes OS links
 
