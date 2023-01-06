@@ -1,9 +1,9 @@
 <p align="center">A security-focused desktop operating system that aims to provide security through isolation.</p>
-</br>
+
 <a href="https://www.qubes-os.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/200px-Qubes_OS_Logo.svg.png" alt="Qubes OS Logo" align="left" style="margin-right: 25px" height=150></a>
-</br>
+
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-</br>
+
 > Contributions *very welcome* but first see [Contributing](#contributing)
 [![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
