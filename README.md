@@ -53,7 +53,7 @@
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
-## Downloading, installing, upgrading and building
+## Downloading, Installing, Upgrading and Building
 
   - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
