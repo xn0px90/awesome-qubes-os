@@ -95,6 +95,69 @@
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
+
+## Networking Server 
+  - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+  
+## Automation
+  - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+
+
+## Video & Screen Sharing
+   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
+## Custom Desktop   
+   - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+   - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+   -[suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+   
+## Remote-Desktop
+  - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+  
+## VPN
+  - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+  - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
+  - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+  - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+## Vitualization
+  - [Virtualization](https://github.com/Wenzel/awesome-virtualization)
+## TOR
+ -  [Whonix](https://www.whonix.org/wiki/Qubes)
+ -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+
+
+## Videos
+ - [3mdeb](https://3mdeb.com/)
+      - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
+      - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
+      - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas) 
+      - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
+      - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+ - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+ - [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
+ - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
+      - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+      - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+ -[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+
+## Security
+* [Firewall](https://www.qubes-os.org/doc/firewall/)
+* [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
+* [Passwordless root access in qubes](https://www.qubes-os.org/doc/vm-sudo/)
+* [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
+* [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+* [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
+* [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
+* [YubiKey](https://www.qubes-os.org/doc/yubikey/)
+* [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+* [How to Set Up a Split Bitcoin Wallet in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
+* [Split dm-crypt](https://github.com/rustybird/qubes-split-dm-crypt)
+* [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
+* [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
+* [Whonix for Privacy & Anonymity](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+* [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
+* [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
+* [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
+* [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
   - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
@@ -139,70 +202,6 @@
   - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
   - [qcrypt](https://github.com/3hhh/qcrypt)
   
-## Networking Server 
-  - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
-  
-## Automation
-  - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
-
-
-## Video & Screen Sharing
-   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
-## Custom Desktop   
-   - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-   - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-   -[suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
-   
-## Remote-Desktop
-  - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
-  
-## VPN
-  - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-  - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
-  - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
-  - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
-## Vitualization
-  - [Virtualization](https://github.com/Wenzel/awesome-virtualization)
-## TOR
- -  [Whonix](https://www.whonix.org/wiki/Qubes)
- -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
-
-## Window Manger
- - [dwm-in-qubesos](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos)
-
-## Videos
- - [3mdeb](https://3mdeb.com/)
-      - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
-      - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
-      - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas) 
-      - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-      - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
- - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
- - [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
- - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
-      - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-      - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
- -[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-
-## Security
-* [Firewall](https://www.qubes-os.org/doc/firewall/)
-* [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
-* [Passwordless root access in qubes](https://www.qubes-os.org/doc/vm-sudo/)
-* [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
-* [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
-* [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-* [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-* [YubiKey](https://www.qubes-os.org/doc/yubikey/)
-* [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-* [How to Set Up a Split Bitcoin Wallet in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
-* [Split dm-crypt](https://github.com/rustybird/qubes-split-dm-crypt)
-* [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
-* [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-* [Whonix for Privacy & Anonymity](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-* [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-* [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-* [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
-* [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
 
 ## System
 * [Architecture](https://www.qubes-os.org/doc/architecture/)
