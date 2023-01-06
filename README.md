@@ -63,7 +63,7 @@
 - [Unikernels](#Unikernels)
 - [Unikernel-like](#Unikernel-like)
 - [Exploitation Tools](#Exploitation-Tools)
-- [Xen](#Xen)
+- [Xen Exploitation](#Xen-Exploitation)
 - [Attacking Hypervisors](#Attacking-Hypervisors)
 - [VM-Hardening](#VM-Hardening)
 - [System](#System)
@@ -239,7 +239,7 @@
        - [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
        - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
-## Xen
+## Xen Exploitation
 
 - [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
 - [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
