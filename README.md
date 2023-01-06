@@ -7,10 +7,10 @@ A collection of awesome Qubes OS links
 
 ## System Requirements
 
-* [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
-* [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
-* [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
-* [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
+- [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
+- [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
+- [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
+- [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
 ## Downloading, installing, and upgrading
 
@@ -22,40 +22,40 @@ A collection of awesome Qubes OS links
 
 ## How-to guides
 
-* [How to update](https://www.qubes-os.org/doc/how-to-update/)
-* [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
-* [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
-* [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
-* [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
-* [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
-* [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
-* [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
-* [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
-* [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
-* [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
-* [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-* [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
+- [How to update](https://www.qubes-os.org/doc/how-to-update/)
+- [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
+- [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
+- [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
+- [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
+- [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
+- [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
+- [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
+- [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
+- [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
+- [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
+- [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
+- [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
 
 ## Templates
 
-* [Templates](https://www.qubes-os.org/doc/templates/)
-* [Template: Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-* [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-* [Customizing Windows 7 templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
-* [Template: Whonix](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-* [Template: CentOS](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-* [Template: Gentoo](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-* [Pentesting: BlackArch](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
-* [Pentesting: Kali](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
-* [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-* [Pentesting: PTF](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
-* [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
-* [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
-* [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
-* [Customizing Fedora minimal templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
-* [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
-* [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
-* [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+- [Templates](https://www.qubes-os.org/doc/templates/)
+- [Template: Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+- [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+- [Customizing Windows 7 templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
+- [Template: Whonix](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+- [Template: CentOS](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+- [Template: Gentoo](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+- [Pentesting: BlackArch](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
+- [Pentesting: Kali](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
+- [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
+- [Pentesting: PTF](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
+- [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
+- [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
+- [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
+- [Customizing Fedora minimal templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
+- [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
+- [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
+- [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
 ## QubesOS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
