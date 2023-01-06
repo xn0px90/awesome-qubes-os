@@ -62,6 +62,12 @@
   - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
   - [Building](https://github.com/QubesOS/qubes-builderv2)
 
+## Exploit Developent
+
+  - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
+  - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
+  - [Virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+
 ## How-to guides
 
 - [How to update](https://www.qubes-os.org/doc/how-to-update/)
