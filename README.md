@@ -4,7 +4,7 @@
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-> Contributions *very welcome* but first see [Contributing](#contributing)
+Contributions *very welcome* but first see [Contributing](#contributing)
 [![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
