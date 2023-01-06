@@ -75,8 +75,8 @@
 - [Social media](#Social-media)
 - [Contributing](#Contributing)
 - [Releases](#Releases)
-- [License](#License)
-
+    - [Adventure Further](#Adventure-Further)
+    - [License](#License)
 
 ## QubesOS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
@@ -353,6 +353,9 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 - [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
 - [Release notes](https://www.qubes-os.org/doc/releases/notes/)
 - [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+
+## Adventure Further
+- [Adventures start here --->](https://github.com/sindresorhus/awesome)
 
 ## License
 
