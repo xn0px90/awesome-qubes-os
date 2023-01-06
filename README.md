@@ -184,17 +184,17 @@
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
   - [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
       
-       * [MemProFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+       - [MemProFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
  
   - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
   
-       * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+       - [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
   - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
   
-       * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
-       * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
-       * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
-       * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+       - [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+       - [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
+       - [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+       - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 
 ## VM-Hardening
@@ -204,89 +204,89 @@
   
 
 ## System
-* [Architecture](https://www.qubes-os.org/doc/architecture/)
-* [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
-* [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
-* [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-* [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-* [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
-* [GUI virtualization](https://www.qubes-os.org/doc/gui/)
-* [Networking](https://www.qubes-os.org/doc/networking/)
-* [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-* [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-* [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
-* [Template manager](https://www.qubes-os.org/doc/template-manager/)
+- [Architecture](https://www.qubes-os.org/doc/architecture/)
+- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
+- [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
+- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
+- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
+- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
+- [GUI virtualization](https://www.qubes-os.org/doc/gui/)
+- [Networking](https://www.qubes-os.org/doc/networking/)
+- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
+- [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
+- [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
+- [Template manager](https://www.qubes-os.org/doc/template-manager/)
 
 ## Services
-* [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
-* [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
-* [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-* [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-* [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
-* [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
-* [Admin API](https://www.qubes-os.org/doc/admin-api/)
+- [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
+- [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
+- [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+- [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+- [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
+- [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
+- [Admin API](https://www.qubes-os.org/doc/admin-api/)
 
 
 ## Advanced Topics
-* [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
-* [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-* [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-* [Windows qubes](https://www.qubes-os.org/doc/windows/)
-* [Config files](https://www.qubes-os.org/doc/config-files/)
-* [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
-* [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
-* [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
-* [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
-* [Salt (management software)](https://www.qubes-os.org/doc/salt/)
-* [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
-* [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
-* [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
-* [GUI configuration](https://www.qubes-os.org/doc/gui-configuration/)
-* [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-* [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
-* [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
-* [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-* [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-* [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+- [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
+- [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
+- [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
+- [Windows qubes](https://www.qubes-os.org/doc/windows/)
+- [Config files](https://www.qubes-os.org/doc/config-files/)
+- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
+- [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
+- [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
+- [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
+- [Salt (management software)](https://www.qubes-os.org/doc/salt/)
+- [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
+- [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
+- [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
+- [GUI configuration](https://www.qubes-os.org/doc/gui-configuration/)
+- [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
+- [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
+- [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
+- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+- [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
 ## Qubes OS Legends
-* [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
-* [Marek Marczykowski-Górecki](https://github.com/marmarek)
-* [unman](https://github.com/unman?tab=repositories)
+- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
+- [Marek Marczykowski-Górecki](https://github.com/marmarek)
+- [unman](https://github.com/unman?tab=repositories)
     - [templates](https://qubes.3isec.org/Templates_4.1/)
-* [Core Team](https://www.qubes-os.org/team/#core-team)
-* You can be one to! You got this! Keep Qubing!
+- [Core Team](https://www.qubes-os.org/team/#core-team)
+- You can be one to! You got this! Keep Qubing!
 
 ## Training
-* [xn0px90](https://patreon.com/xn0px90)
+- [xn0px90](https://patreon.com/xn0px90)
 
 ## Streamers
-* [xn0px90](https://twitch.tv/xn0px90)
-* [infosecstreams](https://infosecstreams.com/)
+- [xn0px90](https://twitch.tv/xn0px90)
+- [infosecstreams](https://infosecstreams.com/)
 
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
-* [Forum](https://forum.qubes-os.org/)
-* [Twitter](https://twitter.com/QubesOS)
-* [Reddit](https://www.reddit.com/r/Qubes/)
-* [Facebook](https://www.facebook.com/QubesOS/)
-* [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-* [Discord](https://discord.gg/YMUbTt7ZRG)
-* [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
-* [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-* [ClubHouse](https://www.clubhouse.com/house/qubes-os)
-* `#qubes` channel on libera.chat via traditional IRC clients
-* `#qubes-os` channel on irc.anonops.com via traditional IRC clients
+- [Forum](https://forum.qubes-os.org/)
+- [Twitter](https://twitter.com/QubesOS)
+- [Reddit](https://www.reddit.com/r/Qubes/)
+- [Facebook](https://www.facebook.com/QubesOS/)
+- [LinkedIn](https://www.linkedin.com/company/qubes-os/)
+- [Discord](https://discord.gg/YMUbTt7ZRG)
+- [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
+- [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
+- [ClubHouse](https://www.clubhouse.com/house/qubes-os)
+- `#qubes` channel on libera.chat via traditional IRC clients
+- `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
 ## Contributing
 Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md)
 
 ## Releases
 
-* [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-* [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
-* [Release notes](https://www.qubes-os.org/doc/releases/notes/)
-* [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+- [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
+- [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+- [Release notes](https://www.qubes-os.org/doc/releases/notes/)
+- [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
 
 ## License
 
