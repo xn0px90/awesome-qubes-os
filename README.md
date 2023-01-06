@@ -127,7 +127,8 @@
   - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
   - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
-
+## Vitualization
+  - [Virtualization](https://github.com/Wenzel/awesome-virtualization)
 ## TOR
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
