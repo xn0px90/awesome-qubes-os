@@ -77,14 +77,13 @@
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
   - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
   
-        * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+       * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
   - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
   
-        * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
-        * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
-        * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
-        * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
-  - 
+       * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+       * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
+       * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+       * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## How-to guides
 
