@@ -58,7 +58,7 @@
   - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
   - [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
-  - [Installing)](https://www.qubes-os.org/doc/installation-guide/)
+  - [Installing](https://www.qubes-os.org/doc/installation-guide/)
   - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
   - [Building](https://github.com/QubesOS/qubes-builderv2)
 
