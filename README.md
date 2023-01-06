@@ -59,33 +59,6 @@
   - [Installing](https://www.qubes-os.org/doc/installation-guide/)
   - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
   - [Building](https://github.com/QubesOS/qubes-builderv2)
-  
-## Kernels
-  - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
-  - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
-  - [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
-  
-## Exploit Developent
-  - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
-  - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
-  - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
-  - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
-  - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-  - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-  - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-  - [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-      
-       * [MemProFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
- 
-  - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-  
-       * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-  - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-  
-       * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
-       * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
-       * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
-       * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## How-to guides
 - [How to update](https://www.qubes-os.org/doc/how-to-update/)
@@ -122,6 +95,45 @@
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
+## Kernels
+  - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+  - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+  - [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
+
+## Unikernels
+  - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
+  - [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
+  - [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
+  - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
+  - [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
+
+## Unikernel-like
+- [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
+- [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+  
+## Exploit Developent
+  - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
+  - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
+  - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+  - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+  - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+  - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
+  - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+  - [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+      
+       * [MemProFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+ 
+  - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+  
+       * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+  - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+  
+       * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+       * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
+       * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+       * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+
+
 ## VM-Hardening
   - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
   - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
@@ -133,8 +145,6 @@
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
-## Unikernels
-  - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion)
