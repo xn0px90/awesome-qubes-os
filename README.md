@@ -211,3 +211,19 @@ The Qubes OS Project has a presence on the following social media platforms:
 * [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 * `#qubes` channel on libera.chat via traditional IRC clients
 * `#qubes-os` channel on irc.anonops.com via traditional IRC clients
+
+## Contributing
+Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md)
+
+## Releases
+
+* [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
+* [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+* [Release notes](https://www.qubes-os.org/doc/releases/notes/)
+* [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
