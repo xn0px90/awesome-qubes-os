@@ -71,9 +71,16 @@
   - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
   - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
   - [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+        * [MemProFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
   - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+        * [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
   - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+        * [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+        * [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
+        * [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+        * [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+  - 
 
 ## How-to guides
 
