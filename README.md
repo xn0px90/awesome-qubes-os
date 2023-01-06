@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a>
-<p align="center">security-focused desktop operating system that aims to provide security through isolation.</p>
+<p align="center">A security-focused desktop operating system that aims to provide security through isolation.</p>
 
 <a href="https://www.qubes-os.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/200px-Qubes_OS_Logo.svg.png" alt="Qubes OS Logo" align="left" style="margin-right: 25px" height=150></a>
 
