@@ -38,6 +38,14 @@
 
 # A collection of awesome Qubes OS links
 
+## QubesOS Websites
+  - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
+  - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
+  - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
+  - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
+  - [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
+  - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
+ 
 ## System Requirements
 
 - [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
@@ -91,14 +99,6 @@
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
-## QubesOS Websites
-  - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
-  - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
-  - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
-  - [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs. 
-  - [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
-  - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
- 
 ## VM-Hardening
   - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
   - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
@@ -215,7 +215,7 @@
 * [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 * [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
-## Qubes-OS Legends
+## Qubes OS Legends
 
 * [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 * [Marek Marczykowski-Górecki](https://github.com/marmarek)
