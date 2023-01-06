@@ -38,6 +38,32 @@
 
 # A collection of awesome Qubes OS links
 
+<details open="open">
+  <summary>Contents</summary>
+  <ol>
+      <ul>
+        <li><a href="#system-requirements">System Requirements</a></li>
+        <li><a href="#downloading-installing-and-upgrading">Downloading, installing, and upgrading</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#how-to-guides">How-to Guides</a>
+    </li>
+    <li><a href="#templates">Templates</a></li>  
+    <li><a href="#conferences-and-events">Conferences and Events</a></li>
+    <li><a href="#advanced-topics">Advanced Topics</a></li>
+    <ul>
+        <li><a href="#security">Security</a></li>
+        <li><a href="#system">System</a></li>
+      <ul>
+        <li><a href="#services">Services</a></li>
+      </ul>
+      </ul>
+    <li><a href="#online-communities">Online Communities</a></li>
+    <li><a href="#releases">Releases</a></li>
+  </ol>
+</details>
+
 ## QubesOS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
   - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
