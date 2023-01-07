@@ -201,7 +201,7 @@
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
   - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
-  - [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
+  - [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
 ## Unikernels
   - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
