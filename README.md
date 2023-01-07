@@ -153,7 +153,8 @@
 
 ## TOR
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
- -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+ -  [i2p-whonix](https://forum.qubes-os.org/t/temporaLokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.ry-way-to-run-i2p-on-qubes-whonix/15861)
+ -  [Lokinet](https://github.com/oxen-io/lokinet) - 
 
 
 ## Videos
