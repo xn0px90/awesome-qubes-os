@@ -169,7 +169,7 @@
  - [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
       - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
       - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
- -[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+      - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 
 ## Security
 * [Firewall](https://www.qubes-os.org/doc/firewall/)
