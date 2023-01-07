@@ -351,13 +351,11 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 - [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
 
 ## Adventure Further
-- [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome links 
-                                         
-                                         
-                                         :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: 
+- [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome list.
 
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+                                 :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: 
