@@ -216,6 +216,7 @@
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
   - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
   - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+  - [Bonzai](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
   - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
   - [joern](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
