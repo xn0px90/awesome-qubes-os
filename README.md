@@ -151,10 +151,11 @@
   - [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
   - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
-## TOR
+## Darknet
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
  -  [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+ - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 
 
 ## Videos
