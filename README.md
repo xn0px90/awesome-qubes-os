@@ -321,7 +321,7 @@
 - [infosecstreams](https://infosecstreams.com/)
 
 ## Companies using Qubes OS
- - [Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners 
+ - [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners 
 
 ## Social media
 The Qubes OS Project has a presence on the following social media platforms:
