@@ -37,7 +37,7 @@
 
 ## Table of Contents
 
-- [QubesOS Websites](#Qubes OS-Websites)
+- [Qubes OS Websites](#Qubes-OS-Websites)
 - [System Requirements](#System-Requirements)
 - [Downloading, Installing, Upgrading and Building](#Downloading,-Installing,-Upgrading-and-Building)
 - [How-to guides](How-to-guides)
