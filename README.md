@@ -317,8 +317,8 @@
 - [xn0px90](https://patreon.com/xn0px90)
 
 ## Streamers
-- [xn0px90](https://twitch.tv/xn0px90)
-- [infosecstreams](https://infosecstreams.com/)
+- [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::streamer!
+- [infosecstreams](https://infosecstreams.com/) -A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers 
 
 ## Companies using Qubes OS
  - [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners 
