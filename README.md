@@ -48,6 +48,7 @@
 - [Remote-Desktop](#Remote-Desktop)
 - [VPN](#VPN)
 - [Darknet](#Darknet)
+- [Crypto](#Crypto)
 - [Videos](#Videos)
 - [Security](#Security)
 - [Kernels](#Kernels)
@@ -155,8 +156,10 @@
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
  -  [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
  - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+ 
+ ##Crypto
  - [awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
-
+ - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md))
 
 ## Videos
  - [3mdeb](https://3mdeb.com/)
@@ -182,7 +185,6 @@
 * [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
 * [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 * [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-* [How to Set Up a Split Bitcoin Wallet in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
 * [Split dm-crypt](https://github.com/rustybird/qubes-split-dm-crypt)
 * [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
 * [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
