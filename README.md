@@ -157,7 +157,7 @@
  -  [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
  - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
  
- ##Crypto
+ ## Crypto
  - [awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
  - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md))
 
