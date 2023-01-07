@@ -159,7 +159,7 @@
  
  ## Crypto
  - [awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
- - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md))
+ - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
 
 ## Videos
  - [3mdeb](https://3mdeb.com/)
