@@ -37,7 +37,7 @@
 
 ## Table of Contents
 
-- [QubesOS Websites](#QubesOS-Websites)
+- [QubesOS Websites](#Qubes OS-Websites)
 - [System Requirements](#System-Requirements)
 - [Downloading, Installing, Upgrading and Building](#Downloading,-Installing,-Upgrading-and-Building)
 - [How-to guides](How-to-guides)
@@ -69,7 +69,7 @@
 - [Adventure Further](#Adventure-Further)
 - [License](#License)
 
-## QubesOS Websites
+## Qubes OS Websites
   - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
   - [Qubes OS.onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
   - [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
@@ -193,6 +193,7 @@
 * [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 * [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
 * [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
+
 ## Vitualization
   - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
@@ -238,7 +239,6 @@
        - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## Xen Exploitation
-
 - [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM) 
 - [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
 - [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
@@ -351,7 +351,10 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 - [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
 
 ## Adventure Further
-- [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: 
+- [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome links 
+                                         
+                                         
+                                         :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: 
 
 ## License
 
