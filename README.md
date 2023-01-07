@@ -47,7 +47,7 @@
 - [Video & Screen Sharing](#Video-&-Screen-Sharing)
 - [Remote-Desktop](#Remote-Desktop)
 - [VPN](#VPN)
-- [TOR](#TOR)
+- [Darknet](#Darknet)
 - [Videos](#Videos)
 - [Security](#Security)
 - [Kernels](#Kernels)
