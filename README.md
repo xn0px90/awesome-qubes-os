@@ -133,7 +133,6 @@
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
-
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
 
@@ -155,7 +154,7 @@
  -  [Whonix](https://www.whonix.org/wiki/Qubes)
  -  [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
  -  [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
- - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+ -  [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
  
  ## Crypto
  - [awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
@@ -223,7 +222,7 @@
   - [Bonzai](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
   - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
   - [joern](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
-  - [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - 
+  - [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
   - [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
       
@@ -234,7 +233,7 @@
        - [LeechCore-pluins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
   - [memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
   
-       - [qemui_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+       - [qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
        - [Kvm](https://github.com/memflow/memflow-kvm) - kvm memflow connector        
        - [pcileech](https://github.com/memflow/memflow-pcileech) - access pcileech interface
        - [coredump](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
