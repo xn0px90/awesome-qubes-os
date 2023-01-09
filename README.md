@@ -1,4 +1,4 @@
-# Awesome Qubes OS[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -78,9 +78,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
 - [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 - [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-- [Qubes OS Github Documentation](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation. 
+- [Qubes OS Github Documentation](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation.
 - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
-- [Qubes OS Onion](www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
+- [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ## System Requirements
 
@@ -189,7 +189,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
-- [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas) 
+- [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
 - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
 - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
@@ -329,7 +329,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Qubes OS Legends
 
 - [Core Team](https://www.qubes-os.org/team/#core-team)
-- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS. 
+- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Unman](https://github.com/unman?tab=repositories)
   - [templates](https://qubes.3isec.org/Templates_4.1/)
@@ -379,7 +379,7 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 ## Adventure Further
 
 - [Adventures start here --->](https://github.com/sindresorhus/awesome) - All the awesome list.
-**[⬆ back to top](#awesome-qubes-os)**
+**[⬆ back to top](#awesome-qubes-os-track-awesome-listawesome)**
 
 ## License
 
