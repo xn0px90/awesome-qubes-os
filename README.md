@@ -155,7 +155,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
    - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/))
    - [Brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
    - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-   - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+   - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS
    
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
@@ -221,7 +221,7 @@ and Whonix™ for advanced security and anonymity.
 
 ## Unikernels
   - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
-  - [ qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a QubesOS ProxyVM, replacing sys-firewall.
+  - [ qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
   - [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
   - [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
   - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
