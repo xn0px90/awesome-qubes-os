@@ -65,7 +65,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Services](#services)
 - [Advanced Topics](#advanced-topics)
 - [Qubes OS Legends](#qubes-os-legends)
-- [Training](#training)
+- [Training & Materials](#training-&-taterials)
 - [Companies using Qubes OS](#companies-using-qubes-os)
 - [Social media](#social-media)
 - [Contributing](#contributing)
@@ -344,7 +344,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [templates](https://qubes.3isec.org/Templates_4.1/)
 - You can be one too! You've got this! Keep Qubing!
 
-## Training
+## Training & Materials
 
 - [training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
 - [qubes-diagrams](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
