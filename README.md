@@ -362,6 +362,6 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/1.0/88x31.png)](https://creativecommons.org/licenses/by/1.0/)
 
-This work is licensed under a [Creative Commons Attribution 1.0 International License](http://creativecommons.org/licenses/by/1.0/).
+This work is licensed under a [Creative Commons Attribution 1.0 Generic](http://creativecommons.org/licenses/by/1.0/).
                                    
                                    :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
