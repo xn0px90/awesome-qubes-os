@@ -204,6 +204,7 @@
 
 ## Unikernels
   - [Awesome-unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
+  - [ qubes-mirage-firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a QubesOS ProxyVM, replacing sys-firewall.
   - [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
   - [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
   - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
