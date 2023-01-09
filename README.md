@@ -138,7 +138,7 @@
   - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/)
   - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
   - [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
-  - [GUI virtualization](https://www.qubes-os.org/doc/gui/)
+  - [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
   - [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
   - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
   - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
