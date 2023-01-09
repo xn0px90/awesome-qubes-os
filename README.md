@@ -135,13 +135,14 @@
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 ## GPU
-  - [gui-domain](https://www.qubes-os.org/doc/gui-domain/)
-  - [gui-configuration](https://www.qubes-os.org/doc/gui-configuration/)
-  - [gui-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
-  - [how-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-  - [nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-  - [install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-  - [windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
+  - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/)
+  - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
+  - [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
+  - [GUI virtualization](https://www.qubes-os.org/doc/gui/)
+  - [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
+  - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+  - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
+  - [Windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
@@ -150,9 +151,9 @@
    - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
    - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
    - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/))
-   - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-   - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-   - [suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+   - [Brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+   - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+   - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
    
 ## Remote-Desktop
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
@@ -212,7 +213,7 @@
 
 ## Kernels
   - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
-  - [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+  - [Sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
   - [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
 ## Unikernels
@@ -234,7 +235,7 @@
   - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
   - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
   - [Bonzai](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
-  - [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
+  - [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
   - [joern](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
   - [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
   - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
@@ -283,7 +284,6 @@
 - [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
 - [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
 - [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
-- [GUI virtualization](https://www.qubes-os.org/doc/gui/)
 - [Networking](https://www.qubes-os.org/doc/networking/)
 - [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
 - [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
