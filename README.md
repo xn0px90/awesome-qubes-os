@@ -375,7 +375,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 - [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os)
 - [Twitter](https://twitter.com/QubesOS)
 - `#xen`      channel on irc.oftc.net via traditional IRC clients.
-- `#qubes`    channel on libera.chat via traditional IRC clients.
+- `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 - `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
 ## Contributing
