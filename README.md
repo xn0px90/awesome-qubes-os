@@ -42,12 +42,11 @@
 - [Downloading, Installing, Upgrading and Building](#Downloading,-Installing,-Upgrading-and-Building)
 - [How-to guides](How-to-guides)
 - [Templates](#Templates)
-- [Networking Server](Networking-Server)
+- [Qubes OS Server](#Qubes-OS-Server)
 - [Automation](#Automation)
 - [GPU](#GPU)
 - [Video & Screen Sharing](#Video-&-Screen-Sharing)
 - [Desktop  Customization](#Desktop-Customization)
-- [Remote-Desktop](#Remote-Desktop)
 - [VPN](#VPN)
 - [Darknet](#Darknet)
 - [Crypto](#Crypto)
@@ -129,8 +128,9 @@
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
 
-## Networking Server 
+## Qubes OS Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+  - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
@@ -143,9 +143,6 @@
   - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
   - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
   - [Windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
-
-## Video & Screen Sharing
-   - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
 
 ## Desktop Customization 
    - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
