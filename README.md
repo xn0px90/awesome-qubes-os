@@ -139,6 +139,9 @@
   - [gui-configuration](https://www.qubes-os.org/doc/gui-configuration/)
   - [gui-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
   - [how-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
+  - [nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+  - [install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
+  - [windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
