@@ -138,6 +138,7 @@
   - [gui-domain](https://www.qubes-os.org/doc/gui-domain/)
   - [gui-configuration](https://www.qubes-os.org/doc/gui-configuration/)
   - [gui-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
+  - [how-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
