@@ -85,7 +85,6 @@
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
 ## Downloading, Installing, Upgrading and Building
-  - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1.1 Download
   - [Qubes OS 4.1.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build Download
   - [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
