@@ -338,6 +338,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [Core Team](https://www.qubes-os.org/team/#core-team)
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
+    -[Blog](https://blog.invisiblethings.org/) - Personal Blog
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Unman](https://github.com/unman?tab=repositories)
   - [templates](https://qubes.3isec.org/Templates_4.1/)
