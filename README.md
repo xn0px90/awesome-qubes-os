@@ -88,9 +88,9 @@
   - [Downloading](https://www.qubes-os.org/downloads/)
   - [Qubes OS 4.1.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1.1 Download
   - [Qubes OS 4.1.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1.2 Weekly Build Download
-  - [Installing](https://www.qubes-os.org/doc/installation-guide/)
-  - [Upgrading](https://www.qubes-os.org/doc/upgrade/)
-  - [Building](https://github.com/QubesOS/qubes-builderv2)
+  - [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
+  - [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
+  - [Building](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder
 
 ## How-to guides
 - [How to update](https://www.qubes-os.org/doc/how-to-update/)
