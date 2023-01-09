@@ -135,8 +135,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 ## Qubes OS Server 
   - [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
   - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
-  
-## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
   
 ## GPU
