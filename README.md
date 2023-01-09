@@ -65,7 +65,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Services](#services)
 - [Advanced Topics](#advanced-topics)
 - [Qubes OS Legends](#qubes-os-legends)
-- [Training & Materials](#training-&-taterials)
+- [Training & Materials](#training-&-materials)
 - [Companies using Qubes OS](#companies-using-qubes-os)
 - [Social media](#social-media)
 - [Contributing](#contributing)
