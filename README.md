@@ -134,6 +134,7 @@
   
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+  
 ## GPU
   - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/)
   - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
@@ -229,7 +230,6 @@ and Whonix™ for advanced security and anonymity.
 ## Exploitation Tools
   - [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
   - [microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library 
-  - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
   - [radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
   - [American Fuzzy Lop](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
   - [Bonzai](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
