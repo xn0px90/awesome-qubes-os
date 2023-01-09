@@ -374,7 +374,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 - [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
 - [Reddit Qubes OS](https://www.reddit.com/r/Qubes/)
 - [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os)
-- [reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os)
+- [Reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os)
 - [Twitter](https://twitter.com/QubesOS)
 - `#xen`      channel on irc.oftc.net via traditional IRC clients.
 - `#qubes`    channel on irc.libera.chat via traditional IRC clients.
