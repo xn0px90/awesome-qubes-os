@@ -311,7 +311,6 @@
 - [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
 - [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
 - [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
-- [GUI configuration](https://www.qubes-os.org/doc/gui-configuration/)
 - [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
 - [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 - [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
