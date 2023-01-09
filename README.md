@@ -261,21 +261,29 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Xen Exploitation
 
+### Video Presentations
+
 - [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
-- [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo&t=3s)
-- [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-- [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
-- [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
-- [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
+- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+- [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
+- [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 - [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
-- [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-- [Subverting the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+
+### PDF Papers
+
+- [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+- [Hypervisor Vulnerability Research - State of the Art [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
+- [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+- [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+
+### Web articles
+
+- [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 - [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 - [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
-- [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
 
 ## VM-Hardening
 
