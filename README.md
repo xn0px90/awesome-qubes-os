@@ -325,7 +325,7 @@ and Whonix™ for advanced security and anonymity.
 - [xn0px90](https://patreon.com/xn0px90) - Every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
-- [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::streamer!
+- [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 - [infosecstreams](https://infosecstreams.com/) -A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers 
 
 ## Companies using Qubes OS
