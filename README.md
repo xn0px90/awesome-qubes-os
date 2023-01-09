@@ -346,6 +346,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Training
 
 - [training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
+- [qubes-artwork](https://github.com/QubesOS/qubes-artwork)
 - [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
