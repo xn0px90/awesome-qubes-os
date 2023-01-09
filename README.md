@@ -49,7 +49,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Templates](#Templates)
 - [Qubes OS Server](#Qubes-OS-Server)
 - [GPU](#GPU)
-- [Video & Screen Sharing](#Video-&-Screen-Sharing)
 - [Desktop  Customization](#Desktop-Customization)
 - [VPN](#VPN)
 - [Darknet](#Darknet)
@@ -153,9 +152,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
    - [Brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
    - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
    - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS
-   
-## Remote-Desktop
-  - [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
   
 ## VPN
   - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
