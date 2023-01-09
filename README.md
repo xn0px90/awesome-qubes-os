@@ -34,6 +34,11 @@
 
 
 # A curated list of awesome Qubes OS links
+<p>A security-focused desktop operating system that aims to provide security through isolation.</p>
+
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+
+Contributions *very welcome* but first see [Contributing](#contributing)
 
 ## Table of Contents
 
