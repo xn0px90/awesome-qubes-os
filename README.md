@@ -44,7 +44,9 @@
 - [Templates](#Templates)
 - [Networking Server](Networking-Server)
 - [Automation](#Automation)
+- [GPU](#GPU)
 - [Video & Screen Sharing](#Video-&-Screen-Sharing)
+- [Desktop  Customization](#Desktop-Customization)
 - [Remote-Desktop](#Remote-Desktop)
 - [VPN](#VPN)
 - [Darknet](#Darknet)
@@ -132,11 +134,19 @@
   
 ## Automation
   - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
+## GPU
+  - [gui-domain](https://www.qubes-os.org/doc/gui-domain/)
+  - [gui-configuration](https://www.qubes-os.org/doc/gui-configuration/)
+  - [gui-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
+  - 
 
 ## Video & Screen Sharing
    - [qubes-video-companion](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
 
-## Custom Desktop   
+## Desktop Customization 
+   - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+   - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+   - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/))
    - [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
    - [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
    - [suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
@@ -305,9 +315,6 @@
 - [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
 - [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 - [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
-- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-- [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
 ## Qubes OS Legends
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
