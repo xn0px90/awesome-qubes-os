@@ -360,8 +360,8 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 **[⬆ back to top](#)**
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/1.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by/1.0/88x31.png)](https://creativecommons.org/licenses/by/1.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/1.0/).
                                    
                                    :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
