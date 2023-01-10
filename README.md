@@ -189,7 +189,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
 - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-- - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+- [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
 - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
