@@ -249,6 +249,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [LeechCore-Plugins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 - [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 - [Memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+  - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework. 
+  - [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.  
   - [Qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
   - [Kvm](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
   - [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
