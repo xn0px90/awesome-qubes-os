@@ -186,7 +186,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
-- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
@@ -341,6 +340,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
     -[Blog](https://blog.invisiblethings.org/) - Personal Blog
+- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Unman](https://github.com/unman?tab=repositories)
   - [templates](https://qubes.3isec.org/Templates_4.1/)
