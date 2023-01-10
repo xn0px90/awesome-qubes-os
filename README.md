@@ -352,6 +352,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
 - [TGubes-diagrams](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
 - [Tubes-artwork](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS
+- [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 - [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
