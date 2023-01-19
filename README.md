@@ -355,7 +355,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes-diagrams](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
 - [Qubes-artwork](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 - [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
-- [anonymous planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity
+- [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
+  - [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
+  - [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
 - [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
