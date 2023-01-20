@@ -161,6 +161,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+- [qubes-gui-rust](https://github.com/QubesOS/qubes-gui-rust)
   
 ## VPN
 
