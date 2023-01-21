@@ -348,7 +348,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories)
   - [Templates](https://qubes.3isec.org/Templates_4.1/)
-  - [unman-install-scripts](https://github.com/unman/shaker)
+  - [Unman Install Scripts](https://github.com/unman/shaker)
 - [Core Team](https://www.qubes-os.org/team/#core-team)
 - You can be one too! You've got this! Keep Qubing!
 
@@ -414,4 +414,4 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 This work is licensed under a [Creative Commons Attribution 1.0 Generic](http://creativecommons.org/licenses/by/1.0/).
 
-                                   :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
+                               :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
