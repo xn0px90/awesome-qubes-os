@@ -221,9 +221,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Kernels
 
+- [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+
 ### Microkernels
 
-- [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 - [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 - [Qubes-linux-kernel](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 - [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
