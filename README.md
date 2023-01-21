@@ -348,7 +348,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories)
   - [Templates](https://qubes.3isec.org/Templates_4.1/)
-  - [Core Team](https://www.qubes-os.org/team/#core-team)
+  -[unman-install-scripts](https://github.com/unman/shaker)
+- [Core Team](https://www.qubes-os.org/team/#core-team)
 - You can be one too! You've got this! Keep Qubing!
 
 ## Training and Materials
