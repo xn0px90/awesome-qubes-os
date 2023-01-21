@@ -33,7 +33,6 @@
 
 # Awesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 ## A curated list of Awesome Qubes OS links
 
 A security-focused desktop operating system that aims to provide security through isolation.
@@ -160,8 +159,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-- [qubes-gui-rust](https://github.com/QubesOS/qubes-gui-rust)
   
 ## VPN
 
@@ -199,7 +198,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Security
 
 - [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-- [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+- [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
 - [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 - [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 - [Firewall](https://www.qubes-os.org/doc/firewall/)
@@ -334,12 +333,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 - [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
 - [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-- [Salt (management software)](https://www.qubes-os.org/doc/salt/)
+- [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
 - [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 - [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-- [USB qubes](https://www.qubes-os.org/doc/usb-qubes/)
+- [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
 - [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-- [Windows qubes](https://www.qubes-os.org/doc/windows/)
+- [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 
 ## Qubes OS Legends
 
@@ -348,7 +347,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories)
-  - [templates](https://qubes.3isec.org/Templates_4.1/)
+  - [Templates](https://qubes.3isec.org/Templates_4.1/)
   - [Core Team](https://www.qubes-os.org/team/#core-team)
 - You can be one too! You've got this! Keep Qubing!
 
@@ -365,7 +364,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Streamers
 
-- [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
+- [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 - [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
 ## Companies using Qubes OS
