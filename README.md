@@ -222,12 +222,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Kernels
 
+### Microkernels
+
 - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 - [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 - [Qubes-linux-kernel](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 - [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
-## Unikernels
+### Unikernels
 
 - [Awesome-Unikernels](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 - [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
@@ -236,7 +238,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 - [Qubes-Mirage-Firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
-## Unikernel-like
+### Unikernel-like
 
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 - [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
@@ -258,8 +260,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
   - [Qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
   - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
-- [MemProFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-  - [MemProcFS](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+- [MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+  - [MemProcFS-Plugins](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 - [Microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 - [Radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
