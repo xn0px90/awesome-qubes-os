@@ -350,7 +350,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Templates](https://qubes.3isec.org/Templates_4.1/)
   - [Unman Install Scripts](https://github.com/unman/shaker)
 - [Core Team](https://www.qubes-os.org/team/#core-team)
-- You can be one too! You've got this! Keep Qubing!
 
 ## Training and Materials
 
