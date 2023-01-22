@@ -54,6 +54,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
   - [GPU](#gpu)
+  - [Networking](#networking)
 - [VPN](#vpn)
 - [Darknet](#darknet)
 - [Crypto](#crypto)
@@ -171,7 +172,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
 - [Windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
-##Networking
+## Networking
 # VPN
 
 - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
