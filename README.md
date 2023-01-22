@@ -159,7 +159,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 - [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-- 
+  
 ## GPU
 
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
