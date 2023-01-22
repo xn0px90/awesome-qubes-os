@@ -51,12 +51,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
   - [How-to guides](#how-to-guides)
   - [Templates](#templates)
-  - [Qubes OS Server](#qubes-os-server)
-  - [GPU](#gpu)
+  - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
-  - [VPN](#vpn)
-  - [Darknet](#darknet)
-  - [Crypto](#crypto)
+  - [GPU](#gpu)
+- [VPN](#vpn)
+- [Darknet](#darknet)
+- [Crypto](#crypto)
   - [Videos](#videos)
   - [Security](#security)
   - [Vitualization](#vitualization)
@@ -69,10 +69,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Video Presentations](#video-presentations)
     - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
-  - [VM-Hardening](#vm-hardening)
   - [System](#system)
   - [Services](#services)
   - [Advanced Topics](#advanced-topics)
+  - [Qubes OS Server](#qubes-os-server)
   - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
   - [Streamers](#streamers)
@@ -144,12 +144,22 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
 
-## Qubes OS Server
+## VM-Hardening
 
-- [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
-- [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-- [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
-  
+- [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+- [Qcrypt](https://github.com/3hhh/qcrypt)
+- [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
+
+## Desktop Customization
+
+- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+- [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+- [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+- [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
+- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
+- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
+- [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
+- 
 ## GPU
 
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
@@ -161,31 +171,22 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
 - [Windows-gaming-hvm](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
-## Desktop Customization
-
-- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
-- [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-- [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
-- [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
-- [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
-  
-## VPN
+##Networking
+# VPN
 
 - [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 - [Qubes-Tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 - [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
-## Darknet
+# Darknet
 
 - [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on qubes-whonix.
 - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 - [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 - [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
-## Crypto
+# Crypto
 
 - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 - [Awesome-DeSci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
@@ -301,11 +302,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 - [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
-## VM-Hardening
-
-- [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-- [Qcrypt](https://github.com/3hhh/qcrypt)
-- [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
 
 ## System
 
@@ -349,6 +345,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
 - [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 - [Windows Qubes](https://www.qubes-os.org/doc/windows/)
+
+## Qubes OS Server
+
+- [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
+- [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+- [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+  
 
 ## Qubes OS Legends
 
