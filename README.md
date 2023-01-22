@@ -58,7 +58,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [VPN](#vpn)
     - [Darknet](#darknet)
   - [Crypto](#crypto)
-  - [Videos](#videos)
   - [Security](#security)
   - [Vitualization](#vitualization)
   - [Kernels](#kernels)
@@ -66,8 +65,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Unikernels](#unikernels)
     - [Unikernel-like](#unikernel-like)
   - [Exploitation Tools](#exploitation-tools)
-  - [Xen Exploitation](#xen-exploitation)
-    - [Video Presentations](#video-presentations)
+  - [Videos](#videos)
+    - [Xen Exploitation](#xen-exploitation)
     - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
   - [System](#system)
@@ -193,19 +192,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 - [Awesome-DeSci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
-## Videos
-
-- [3mdeb](https://3mdeb.com/)
-- [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
-- [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-- [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-- [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
-- [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
-- [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
-- [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
-- [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
-- [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-- [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
 ## Security
 
@@ -278,9 +264,21 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-## Xen Exploitation
+## Videos
 
-### Video Presentations
+- [3mdeb](https://3mdeb.com/)
+- [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
+- [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+- [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+- [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
+- [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
+- [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
+- [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
+- [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
+- [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+- [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+
+### Xen Exploitation
 
 - [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
 - [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
