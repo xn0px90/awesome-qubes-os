@@ -379,7 +379,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Streamers
 
 - [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-- [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
+- [xn0px90](https://twitch.tv/xn0px90) - :|: Your's Trully! First Full Time Info-Sec Qubes-OS Streamer! :|:
 
 ## Companies using Qubes OS
 
