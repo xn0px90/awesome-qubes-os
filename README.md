@@ -109,19 +109,19 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## How-to guides
 
-- [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/)
-- [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/)
-- [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/)
-- [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/)
-- [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/)
-- [How to install software](https://www.qubes-os.org/doc/how-to-install-software/)
-- [How to update](https://www.qubes-os.org/doc/how-to-update/)
-- [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-- [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/)
-- [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/)
-- [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/)
-- [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/)
-- [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/)
+- [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
+- [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files
+- [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
+- [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
+- [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen
+- [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
+- [How to update](https://www.qubes-os.org/doc/how-to-update/) - This page is about updating your system while staying on the same supported version of Qubes OS. 
+- [How to use PCI devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - Unlike other devices (USB, block, mic), PCI devices need to be attached on VM-bootup.
+- [How to use USB devices](https://www.qubes-os.org/doc/how-to-use-usb-devices/) - Attaching USB devices to VMs requires a USB qube.
+- [How to use block storage devices](https://www.qubes-os.org/doc/how-to-use-block-storage-devices/) - This page is part of device handling in qubes.
+- [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
+- [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight qube that can be created quickly and will self-destruct when closed.
+- [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
 ## Templates
 
