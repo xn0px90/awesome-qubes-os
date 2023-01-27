@@ -145,13 +145,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## VM-Hardening
 
-- [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-- [Qcrypt](https://github.com/3hhh/qcrypt)
-- [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening)
+- [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
+- [Qcrypt](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+- [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 
 ## Desktop Customization
 
-- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
+- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - 
 - [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
