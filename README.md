@@ -94,10 +94,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## System Requirements
 
-- [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
-- [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
-- [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
-- [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
+- [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
+- [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers
+- [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
+- [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware 
 
 ## Downloading, Installing, Upgrading, and Building
 
