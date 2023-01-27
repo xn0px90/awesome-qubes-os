@@ -151,9 +151,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Desktop Customization
 
-- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - 
-- [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
-- [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+- [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesome with the patches for qubes.
+- [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment 
+- [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - 
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
 - [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
