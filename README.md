@@ -194,8 +194,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Security
 
-- [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
-- [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
+- [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - 
+- [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - 
 - [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 - [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 - [Firewall](https://www.qubes-os.org/doc/firewall/)
@@ -209,7 +209,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
 - [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 - [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-- [Whonix for Privacy & Anonymity](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
 - [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ## Vitualization
