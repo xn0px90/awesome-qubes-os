@@ -249,6 +249,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [LeechCore](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
   - [LeechCore-Plugins](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 - [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
+- [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 - [Memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
   - [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.  
   - [Coredump](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
