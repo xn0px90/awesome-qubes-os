@@ -266,16 +266,16 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Optics and Extra Info
 
 - [3mdeb](https://3mdeb.com/)
-- [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
-- [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 - [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 - [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 - [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 - [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
 - [Qubes OS-3mdeb mini-summit 2021: Day 2](https://www.youtube.com/watch?v=KdDr6TiqF0k)
 - [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
-- [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-- [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+- [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
+- [UX] - User Experience
+  - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+  - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
 ### Xen Exploitation
 
@@ -307,9 +307,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Architecture](https://www.qubes-os.org/doc/architecture/)
 - [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
 - [Networking](https://www.qubes-os.org/doc/networking/)
-- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
 - [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
 - [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
 - [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
@@ -318,7 +315,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Services
 
-- [Admin API](https://www.qubes-os.org/doc/admin-api/)
 - [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
 - [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 - [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
@@ -350,6 +346,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 - [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
 - [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+- [Admin API](https://www.qubes-os.org/doc/admin-api/)
+- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
+- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
+- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
   
 
 ## Qubes OS Legends
