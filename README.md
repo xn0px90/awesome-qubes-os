@@ -50,6 +50,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [System Requirements](#system-requirements)
   - [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
   - [How-to guides](#how-to-guides)
+  - [System](#system)
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
@@ -58,8 +59,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [VPN](#vpn)
     - [Darknet](#darknet)
   - [Crypto](#crypto)
-  - [Security](#security)
-  - [Vitualization](#vitualization)
   - [Kernels](#kernels)
     - [Microkernels](#microkernels)
     - [Unikernels](#unikernels)
@@ -69,7 +68,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Xen Exploitation](#xen-exploitation)
     - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
-  - [System](#system)
   - [Services](#services)
   - [Advanced Topics](#advanced-topics)
   - [Qubes OS Server](#qubes-os-server)
@@ -123,8 +121,20 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight qube that can be created quickly and will self-destruct when closed.
 - [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
+## System
+
+- [Architecture](https://www.qubes-os.org/doc/architecture/)
+- [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
+- [Networking](https://www.qubes-os.org/doc/networking/)
+- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
+- [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
+- [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
+
+
 ## Templates
 
+- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
+- [Template manager](https://www.qubes-os.org/doc/template-manager/)
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
 - [Customizing Fedora minimal templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
 - [Customizing Windows 7 templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
@@ -148,6 +158,22 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
 - [Qcrypt](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
+- [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
+- [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop. 
+- [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
+- [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
+- [Firewall](https://www.qubes-os.org/doc/firewall/) - Every qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
+- [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
+- [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) -  You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you). 
+- [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+- [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - > It uses end-to-end encryption to secure all communications.
+- [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app qube.
+- [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
+- [Split dm-crypt](https://github.com/rustybird/qubes-split-dm-crypt) - Instead of directly attaching an encrypted LUKS1 partition from a source VM such as sys-usb to a destination VM and decrypting it there.
+- [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
+- [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+- [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
+- [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ## Desktop Customization
 
@@ -191,29 +217,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 - [Awesome-DeSci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 
-
-## Security
-
-- [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - 
-- [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - 
-- [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
-- [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
-- [Firewall](https://www.qubes-os.org/doc/firewall/)
-- [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/)
-- [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
-- [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-- [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
-- [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-- [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
-- [Split dm-crypt](https://github.com/rustybird/qubes-split-dm-crypt)
-- [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-- [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-- [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-- [YubiKey](https://www.qubes-os.org/doc/yubikey/)
-
-## Vitualization
-
-- [Awesome-Virtualization](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
 
 ## Kernels
 
@@ -302,16 +305,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
 
-## System
 
-- [Architecture](https://www.qubes-os.org/doc/architecture/)
-- [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
-- [Networking](https://www.qubes-os.org/doc/networking/)
-- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
-- [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
-- [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-- [Template manager](https://www.qubes-os.org/doc/template-manager/)
 
 ## Services
 
@@ -358,10 +352,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-- [Unman](https://github.com/unman?tab=repositories)
-  - [Templates](https://qubes.3isec.org/Templates_4.1/)
-  - [Unman Install Scripts](https://github.com/unman/shaker)
-- [Core Team](https://www.qubes-os.org/team/#core-team)
+- [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+  - [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
+  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
+- [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
 ## Training and Materials
 
