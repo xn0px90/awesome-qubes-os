@@ -368,7 +368,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Streamers
 
 - [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-- [xn0px90](https://twitch.tv/xn0px90) - :|: Your's Trully! First Full Time Info-Sec Qubes-OS Streamer! :|:
+- [xn0px90](https://twitch.tv/xn0px90) - Your's Trully! First Full Time Info-Sec Qubes-OS Streamer!
 
 ## Companies using Qubes OS
 
@@ -416,4 +416,4 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 This work is licensed under a [Creative Commons Attribution 1.0 Generic](http://creativecommons.org/licenses/by/1.0/).
 
-:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X
+``` :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X ```
