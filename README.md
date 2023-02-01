@@ -55,10 +55,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
   - [GPU](#gpu)
-  - [Networking](#networking)
+  - [Clear Net \& Darknet Networking](#clear-net--darknet-networking)
     - [VPN](#vpn)
     - [Darknet](#darknet)
-  - [Crypto](#crypto)
+    - [Crypto](#crypto)
   - [Kernels](#kernels)
     - [Microkernels](#microkernels)
     - [Unikernels](#unikernels)
@@ -68,7 +68,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
   - [Optics and Extra Info](#optics-and-extra-info)
-  - [Services](#services)
   - [Advanced Topics](#advanced-topics)
   - [Qubes OS Server](#qubes-os-server)
   - [Qubes OS Legends](#qubes-os-legends)
@@ -110,6 +109,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 - [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files
 - [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
+- - [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
 - [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
 - [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen
 - [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
@@ -162,6 +162,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop. 
 - [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 - [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
+ - [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/) 
 - [Firewall](https://www.qubes-os.org/doc/firewall/) - Every qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
 - [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 - [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) -  You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you). 
@@ -173,6 +174,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
 - [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 - [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
+- [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+ [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
+- [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
+- [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 - [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ## Desktop Customization
@@ -196,7 +201,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
 - [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
 
-## Networking
+## Clear Net & Darknet Networking
 
 ### VPN
 
@@ -212,7 +217,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 - [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
-## Crypto
+### Crypto
 
 - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 - [Awesome-DeSci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
@@ -303,14 +308,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [UX] - User Experience
   - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
   - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-## Services
-
-- [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
-- [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
-- [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
-- [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
-- [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
-- [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 
 ## Advanced Topics
 
@@ -368,7 +365,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Streamers
 
 - [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-- [xn0px90](https://twitch.tv/xn0px90) - Your's Trully! First Full Time Info-Sec Qubes-OS Streamer!
+- [xn0px90](https://twitch.tv/xn0px90) - First Full Time Info-Sec Qubes-OS Streamer!
 
 ## Companies using Qubes OS
 
