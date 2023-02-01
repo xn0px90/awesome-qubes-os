@@ -133,8 +133,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Templates
 
-- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-- [Template manager](https://www.qubes-os.org/doc/template-manager/)
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM
 - [Customizing Fedora minimal templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md) - FEDORA Packages Recommendations
 - [Customizing Windows 7 templates](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md) - Disable/Uninstall unnecessary features/services
@@ -150,6 +148,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Template: Whonix](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
 - [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 - [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
+- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
+- [Template manager](https://www.qubes-os.org/doc/template-manager/)
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
