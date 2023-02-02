@@ -273,8 +273,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### Xen Exploitation
 
-- [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
+- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - 
 - [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
 - [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 - [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
@@ -284,8 +284,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### PDF Papers
 
-- [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-- [Hypervisor Vulnerability Research - State of the Art [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
+- [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy
+- [Hypervisor Vulnerability Research - State of the Art [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - 
 - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
 - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
 
@@ -398,10 +398,10 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 ## Releases
 
-- [Release notes](https://www.qubes-os.org/doc/releases/notes/)
-- [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
-- [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-- [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+- [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
+- [Release schedules](https://www.qubes-os.org/doc/releases/schedules/) -  Developer Release Schedules
+- [Supported releases](https://www.qubes-os.org/doc/supported-releases/) - This page details the level and period of support for releases of operating systems in the Qubes ecosystem.
+- [Testing new releases and updates](https://www.qubes-os.org/doc/testing/) - Testing new Qubes OS releases and updates is one of the most helpful ways in which you can contribute to the Qubes OS Project.
 
 ## Adventure Further
 
