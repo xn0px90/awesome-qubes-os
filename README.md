@@ -178,6 +178,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
  [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
 - [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
 - [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
+- [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
 - [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ## Desktop Customization
@@ -290,7 +291,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### Web articles
 
-- [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
+- [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 - [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 - [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
