@@ -148,8 +148,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Template: Whonix](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
 - [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 - [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
-- [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
-- [Template manager](https://www.qubes-os.org/doc/template-manager/)
+- [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
+- [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
@@ -187,7 +187,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - 
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust)
+- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
   
 ## GPU
@@ -333,7 +333,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 - [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
 - [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
-- [Admin API](https://www.qubes-os.org/doc/admin-api/)
+- [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
 - [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
 - [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
 - [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
