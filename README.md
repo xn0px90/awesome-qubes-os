@@ -376,18 +376,18 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 The Qubes OS Project has a presence on the following social media platforms:
 
-- [ClubHouse](https://www.clubhouse.com/house/qubes-os)
-- [Discord](https://discord.gg/YMUbTt7ZRG)
-- [Facebook](https://www.facebook.com/QubesOS/)
-- [Forum](https://forum.qubes-os.org/)
-- [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-- [Mastodon](https://mastodon.social/@QubesOS)
-- [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
-- [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-- [Reddit Qubes OS](https://www.reddit.com/r/Qubes/)
-- [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os)
-- [Reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os)
-- [Twitter](https://twitter.com/QubesOS)
+- [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
+- [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+- [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
+- [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
+- [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
+- [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
+- [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
+- [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
+- [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
+- [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os) - Reddit room dedicated to hacking Qubes OS
+- [Reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os) - Reddit room dedicated to hacking with Qubes OS
+- [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account
 - `#xen`      channel on irc.oftc.net via traditional IRC clients.
 - `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 - `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
