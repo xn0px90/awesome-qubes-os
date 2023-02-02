@@ -334,9 +334,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
 - [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 - [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
-- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/)
-- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/)
-- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/)
+- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
+- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
+- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
   
 
 ## Qubes OS Legends
