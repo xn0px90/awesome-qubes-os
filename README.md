@@ -186,9 +186,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesome with the patches for qubes.
 - [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment 
 - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - 
-- [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
-- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/)
-- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
+- [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - To install the i3 window manager and the its Qubes specific configuration.
+- [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) - Nonetheless, it is still possible to install KDE by issuing this command in dom0.
+- [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol.
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
   
 ## GPU
@@ -196,11 +196,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
 - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
 - [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
-- [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - 
-- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - 
-- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - 
-- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - 
-- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - 
+- [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - All AppVM X applications connect to local (running in AppVM) Xorg servers that use the following “hardware” drivers.
+- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
+- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
+- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
+- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - Create a Gaming HVM
 
 ## Clear Net & Darknet Networking
 
