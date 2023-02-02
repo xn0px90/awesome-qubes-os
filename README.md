@@ -65,7 +65,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Unikernel-like](#unikernel-like)
   - [Exploitation Tools](#exploitation-tools)
     - [Xen Exploitation](#xen-exploitation)
-    - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
   - [Optics and Extra Info](#optics-and-extra-info)
   - [Advanced Topics](#advanced-topics)
@@ -282,13 +281,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 - [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
 
-### PDF Papers
-
-- [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy
-- [Hypervisor Vulnerability Research - State of the Art [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - 
-- [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-- [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-
 ### Web articles
 
 - [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
@@ -344,6 +336,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - - Xen 0wning Trilogy
+Part One
+  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+Part Two
+  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
+  - [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
