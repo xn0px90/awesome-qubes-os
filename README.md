@@ -192,14 +192,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   
 ## GPU
 
-- [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/)
-- [GUI-domain](https://www.qubes-os.org/doc/gui-domain/)
-- [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
-- [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
-- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
+- [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
+- [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
+- [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
+- [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - 
+- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - 
+- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - 
+- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - 
+- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - 
 
 ## Clear Net & Darknet Networking
 
