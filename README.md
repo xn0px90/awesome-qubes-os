@@ -65,7 +65,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Unikernel-like](#unikernel-like)
   - [Exploitation Tools](#exploitation-tools)
     - [Xen Exploitation](#xen-exploitation)
-    - [PDF Papers](#pdf-papers)
     - [Web articles](#web-articles)
   - [Optics and Extra Info](#optics-and-extra-info)
   - [Advanced Topics](#advanced-topics)
@@ -177,7 +176,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
 - [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
 - [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
-- [YubiKey](https://www.qubes-os.org/doc/yubikey/)
+- [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
+- [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online. 
 
 ## Desktop Customization
 
@@ -194,11 +194,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
 - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
 - [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
-- [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
-- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md)
+- [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - 
+- [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - 
+- [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - 
+- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - 
+- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - 
 
 ## Clear Net & Darknet Networking
 
@@ -271,25 +271,19 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### Xen Exploitation
 
-- [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
+- [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - 
 - [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
 - [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 - [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
 - [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 - [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 - [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
-
-### PDF Papers
-
-- [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-- [Hypervisor Vulnerability Research - State of the Art [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
-- [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-- [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+- [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 
 ### Web articles
 
-- [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
+- [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 - [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 - [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
@@ -342,6 +336,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - - Xen 0wning Trilogy
+Part One
+  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+Part Two
+  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
@@ -374,18 +373,18 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 The Qubes OS Project has a presence on the following social media platforms:
 
-- [ClubHouse](https://www.clubhouse.com/house/qubes-os)
-- [Discord](https://discord.gg/YMUbTt7ZRG)
-- [Facebook](https://www.facebook.com/QubesOS/)
-- [Forum](https://forum.qubes-os.org/)
-- [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-- [Mastodon](https://mastodon.social/@QubesOS)
-- [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
-- [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-- [Reddit Qubes OS](https://www.reddit.com/r/Qubes/)
-- [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os)
-- [Reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os)
-- [Twitter](https://twitter.com/QubesOS)
+- [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
+- [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+- [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
+- [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
+- [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
+- [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
+- [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
+- [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
+- [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
+- [Reddit hacking_qubes_os](https://www.reddit.com/r/hacking_qubes_os) - Reddit room dedicated to hacking Qubes OS
+- [Reddit hack_with_qubes_os](https://www.reddit.com/r/hack_with_qubes_os) - Reddit room dedicated to hacking with Qubes OS
+- [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account
 - `#xen`      channel on irc.oftc.net via traditional IRC clients.
 - `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 - `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
@@ -396,10 +395,10 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 ## Releases
 
-- [Release notes](https://www.qubes-os.org/doc/releases/notes/)
-- [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
-- [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
-- [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+- [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
+- [Release schedules](https://www.qubes-os.org/doc/releases/schedules/) -  Developer Release Schedules
+- [Supported releases](https://www.qubes-os.org/doc/supported-releases/) - This page details the level and period of support for releases of operating systems in the Qubes ecosystem.
+- [Testing new releases and updates](https://www.qubes-os.org/doc/testing/) - Testing new Qubes OS releases and updates is one of the most helpful ways in which you can contribute to the Qubes OS Project.
 
 ## Adventure Further
 
