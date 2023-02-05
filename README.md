@@ -128,6 +128,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
 - [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
 - [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
+- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 
 ## Templates
 
@@ -165,6 +166,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 - [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
 - [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
+- [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
 - [Signal](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md) - It uses end-to-end encryption to secure all communications.
 - [Split GPG](https://www.qubes-os.org/doc/split-gpg/) - Split GPG implements a concept similar to having a smart card with your private GPG keys, except that the role of the “smart card” is played by another Qubes app Qube.
 - [Split SSH](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md) - Split SSH implements a concept similar to having a smart card with your private SSH keys, except that the role of the “smart card” is played by another Qubes AppVM.
@@ -314,8 +316,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
 - [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
 - [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-- [SaltStack (management software)](https://www.qubes-os.org/doc/salt/)
-- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
 - [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
 - [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
 - [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
