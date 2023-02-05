@@ -204,8 +204,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Clearnet & Anonymous Networking
 
-### VPN
-
 #### Wireguard
 - [Mullvad VPN (FE36 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own. 
 - [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
