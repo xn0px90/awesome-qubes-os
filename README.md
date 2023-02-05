@@ -47,10 +47,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [A curated list of Awesome Qubes OS links](#a-curated-list-of-awesome-qubes-os-links)
   - [Table of Contents](#table-of-contents)
   - [Qubes OS Websites](#qubes-os-websites)
-  - [System Requirements](#system-requirements)
+  - [System Information \& Requirements](#system-information--requirements)
   - [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
   - [How-to guides](#how-to-guides)
-  - [System](#system)
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
@@ -68,7 +67,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Xen Exploitation](#xen-exploitation)
     - [Web articles](#web-articles)
   - [Optics and Extra Info](#optics-and-extra-info)
-  - [Advanced Topics](#advanced-topics)
   - [Qubes OS Server](#qubes-os-server)
   - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
@@ -89,12 +87,30 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 - [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
-## System Requirements
-
+## System Information & Requirements
+- [Architecture](https://www.qubes-os.org/doc/architecture/)
+- [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
 - [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
 - [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
+- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
+- [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
+- [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
+- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
+- [Networking](https://www.qubes-os.org/doc/networking/)
+- [Config files](https://www.qubes-os.org/doc/config-files/)
+- [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
+- [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
+- [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
+- [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
+- [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
+- [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
+- [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
+- [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
+- [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
+- [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
+- [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 
 ## Downloading, Installing, Upgrading, and Building
 
@@ -121,16 +137,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
 - [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 
-## System
-
-- [Architecture](https://www.qubes-os.org/doc/architecture/)
-- [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
-- [Networking](https://www.qubes-os.org/doc/networking/)
-- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/)
-- [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/)
-- [Storage pools](https://www.qubes-os.org/doc/storage-pools/)
-- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/)
-
 ## Templates
 
 - [Creating a NetBSD VM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md) - Creating a NetBSD VM.
@@ -147,10 +153,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Template: Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md) - If you would like to use Ubuntu Linux distribution in your AppVMs, you can build and install one of the available Ubuntu templates.
 - [Template: Whonix](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md) -Whonix in Qubes replaces the deprecated TorVM service used in earlier versions of Qubes.
 - [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
+  - [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 - [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 - [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 - [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
-- [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain
+- [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain.
+- [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
 ## VM-Hardening
@@ -307,22 +315,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
   - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
-## Advanced Topics
 
-- [Config files](https://www.qubes-os.org/doc/config-files/)
-- [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
-- [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)
-- [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/)
-- [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/)
-- [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/)
-- [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/)
-- [Qubes service](https://www.qubes-os.org/doc/qubes-service/)
-- [RPC policies](https://www.qubes-os.org/doc/rpc-policy/)
-- [Resize disk image](https://www.qubes-os.org/doc/resize-disk-image/)
-- [Standalones and HVMs](https://www.qubes-os.org/doc/standalones-and-hvms/)
-- [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
-- [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
-- [Windows Qubes](https://www.qubes-os.org/doc/windows/)
 
 ## Qubes OS Server
 
