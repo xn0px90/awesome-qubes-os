@@ -2,5 +2,9 @@ language: node_js
 node_js:
   - 'node'
 #git:
-on: push
-#depth: false
+
+on:
+  - 'push'
+
+
+depth: false
