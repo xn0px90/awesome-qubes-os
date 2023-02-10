@@ -1,6 +1,12 @@
-language: node_js
-node_js:
-  - 'node'
-github_token: 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
-# git:
-#   depth: false
+name: CI
+on:
+  pull_request:
+    branches: [main]
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
