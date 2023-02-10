@@ -1,5 +1,7 @@
 language: node_js
 node_js:
   - 'node'
-# git:
-#   depth: false
+git:
+  - 'github_token: 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'
+
+depth: false
