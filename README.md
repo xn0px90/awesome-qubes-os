@@ -88,6 +88,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ## System Information & Requirements
+
 - [Architecture](https://www.qubes-os.org/doc/architecture/)
 - [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
 - [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
@@ -208,7 +209,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [GUI-virtualization](https://www.qubes-os.org/doc/gui/) - 
 - [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - 
 - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - 
-- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - 
+- [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) 
 - [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - 
 
 ## Clearnet & Anonymous Networking
