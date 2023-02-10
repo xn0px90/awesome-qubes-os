@@ -270,12 +270,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 - [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 - [Memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-  - [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.  
-  - [Coredump](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
-  - [Kvm](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-  - [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-  - [Qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
-  - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
+- [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.  
+- [Coredump](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
+- [Kvm](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
+- [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+- [Qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+- [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
   - [MemProcFS-Plugins](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 - [Microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
