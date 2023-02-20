@@ -390,10 +390,6 @@ The Qubes OS Project has a presence on the following social media platforms:
 - `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 - `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
-## Contributing
-
-Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
-
 ## Releases
 
 - [Release notes](https://www.qubes-os.org/doc/releases/notes/) - Developer documentation Notes
@@ -405,6 +401,10 @@ Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Q
 
 - Adventures start here ---> [Adventure Here!](https://github.com/sindresorhus/awesome) - All the awesome list.
 **[⬆ back to top](#awesome-qubes-os-)**
+
+## Contributing
+
+Contribution guidelines can be found [here](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
 
 ## License
 
