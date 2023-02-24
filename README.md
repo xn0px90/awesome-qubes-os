@@ -50,6 +50,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [System Information \& Requirements](#system-information--requirements)
   - [Downloading, Installing, Upgrading, and Building](#downloading-installing-upgrading-and-building)
   - [How-to guides](#how-to-guides)
+     - [journoSEC](#journosec)
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Desktop Customization](#desktop-customization)
@@ -137,6 +138,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to use devices](https://www.qubes-os.org/doc/how-to-use-devices/) - This is an overview of device handling in Qubes OS.
 - [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
 - [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
+- [How to persist Tailscale tunnel in QubesOS ](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
+- [How to use Qubes for journalists and Humans Rights Defenders](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+  - [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
+  - [Automated Arkenfox Qubes browser install](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
 
 ## Templates
 
