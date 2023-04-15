@@ -96,7 +96,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
 - [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
-- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/) - 
+- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/) - Qubes makes is that now the attacker doesn’t have access to all the software running in the other domains.
 - [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/) - A list of security-critical (i.e., trusted) code components in Qubes OS.
 - [Storage pools](https://www.qubes-os.org/doc/storage-pools/) - Qubes OS implements a security-by-isolation (or security-by-compartmentalization) approach by providing the ability to easily create many security domains.
 - [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/) - hese steps assume you have already created a separate volume group and thin pool (not thin volume) for your HDD. 
