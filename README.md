@@ -222,6 +222,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Clearnet & Anonymous Networking
 
+### DNS
+- [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
+
 ### Wireguard
 
 - [Mullvad VPN (FE36 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own. 
