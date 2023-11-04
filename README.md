@@ -303,6 +303,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
 - [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
 - [Qubes OS Summit 2023](https://www.youtube.com/watch?v=_UxndcxIngw) - Day 1
+- [Qubes OS Summit 2023](https://www.youtube.com/watch?v=xo2BVTn7ohs) - Day 2
 - [Qubes OS summit 2022](https://www.youtube.com/watch?v=hkWWz3xGqS8) - Day 1
 - [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
 - [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
