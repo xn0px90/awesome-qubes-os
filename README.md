@@ -177,7 +177,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop.
 - [Data leaks](https://www.qubes-os.org/doc/data-leaks/) - Firewalling in Qubes is not intended to be a leak-prevention mechanism.
 - [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
-  - [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
+- [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/) - Updating dom0
 - [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
 - [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 - [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
