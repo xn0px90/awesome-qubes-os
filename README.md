@@ -165,7 +165,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 - [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
 - [Tips for Using Linux in an HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md) - Tips for Linux in HVM domain.
-- [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/)
+- [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
 ## VM-Hardening
