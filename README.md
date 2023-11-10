@@ -226,7 +226,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### Wireguard
 
-- [Mullvad VPN (Fedora-38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
+- [Mullvad VPN (Fedora38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
 
 ### OpenVPN
 
@@ -296,18 +296,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-### Xen Exploitation
-
-- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
-- [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
-- [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
-- [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
-- [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
-- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
-- [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
-- [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
-
 ## Optics and Extra Info
 
 - [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
@@ -324,6 +312,18 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [UX] - User Experience
   - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
   - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
+
+### Xen Exploitation
+
+- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
+- [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
+- [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
+- [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
+- [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
+- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
+- [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
 
 ### Web articles
 
