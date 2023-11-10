@@ -1,36 +1,34 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~:::^^^^^^^^^^^^^^^^^^:::~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~77~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@&P?~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777!~~^:~JB&@@@@@@@@@@@@@@@@@@&BY~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~:::^^^^^^^^^^^^^^^^^^:::~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~77~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@&P?~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777!~~^:~JB&@@@@@@@@@@@@@@@@@@&BY~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-                    _                                    ___      __                 ___  ___
-                   /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
-                  / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
-                 /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
-
+                _                                    ___      __                 ___  ___
+               /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
+              / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
+             /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
 # Awesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## A curated list of Awesome Qubes OS links
@@ -94,18 +92,17 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/) - We aim for these vendors to be as diverse as possible in terms of geography, cost, and availability.
 - [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/) - Community-recommended computers.
 - [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/) - The HCL is a compilation of reports generated and submitted by users across various Qubes versions about their hardware’s compatibility with Qubes.
-- [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choosing your hardware.
-- [Security design goals](https://www.qubes-os.org/doc/security-design-goals/) - Qubes makes is that now the attacker doesn’t have access to all the software running in the other domains.
+- [System Requirements](https://www.qubes-os.org/doc/system-requirements/) - User documentation / Choyhe attacker doesn’t have access to all the software running in the other domains.
 - [Security-critical code](https://www.qubes-os.org/doc/security-critical-code/) - A list of security-critical (i.e., trusted) code components in Qubes OS.
 - [Storage pools](https://www.qubes-os.org/doc/storage-pools/) - Qubes OS implements a security-by-isolation (or security-by-compartmentalization) approach by providing the ability to easily create many security domains.
-- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/) - hese steps assume you have already created a separate volume group and thin pool (not thin volume) for your HDD. 
+- [Secondary storage](https://www.qubes-os.org/doc/secondary-storage/) - hese steps assume you have already created a separate volume group and thin pool (not thin volume) for your HDD.
 - [Networking](https://www.qubes-os.org/doc/networking/) - In Qubes, the standard Xen networking is used, based on backend driver in the driver domain and frontend drivers in VMs.
 - [Config files](https://www.qubes-os.org/doc/config-files/) - These files are placed in /rw, which survives a VM restart. That way, they can be used to customize a single VM instead of all VMs based on the same template. The scripts here all run as root.
 - [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/) - A disposable can be based on any app qube.
 - [How to install software in dom0](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/) - How to install a specific package
 - [How to make any file persistent (bind-dirs)](https://www.qubes-os.org/doc/bind-dirs/) - With bind-dirs any arbitrary files or folders can be made persistent in app qubes.
 - [How to mount a Qubes partition from another OS](https://www.qubes-os.org/doc/mount-from-other-os/) - When a Qubes OS install is unbootable or booting it is otherwise undesirable, this process allows for the recovery of files stored within the system.
-- [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/) - This page is for users who wish to install contributed packages. 
+- [Installing contributed packages](https://www.qubes-os.org/doc/installing-contributed-packages/) - This page is for users who wish to install contributed packages.
 - [Managing qube kernels](https://www.qubes-os.org/doc/managing-vm-kernels/) - By default, VMs kernels are provided by dom0.
 - [Qubes service](https://www.qubes-os.org/doc/qubes-service/) - Usage documentation is in the qvm-service man page.
 - [RPC policies](https://www.qubes-os.org/doc/rpc-policy/) - This document explains the basics of RPC policies in Qubes.
@@ -145,7 +142,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to Implement TPM Boot Verification](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
 - [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
-
 ## Templates
 
 - [Building a TemplateVM for a new OS](https://forum.qubes-os.org/docs?topic=18972) - If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice.
@@ -159,15 +155,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Pentesting: PTF](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 - [Template: Windows](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md) - Simple Windows install
 - [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
-- [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity. 
+- [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymity.
 - [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 - [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 - [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
 - [Shadow qube](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 - [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
-
-
 
 ## VM-Hardening
 
@@ -191,12 +185,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/) - The Qubes U2F Proxy is a secure proxy intended to make use of U2F two-factor authentication devices with web browsers without exposing the browser to the full USB stack, not unlike the USB keyboard and mouse proxies implemented in Qubes.
 - [Using Multi-Factor Authentication with Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md) - This page concerns multi-factor authentication for logging into external services, not for logging into Qubes itself.
 - [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html) - The following setup instructions walk through the process of configuring dom0 and a USB qube so that OnlyKey will function as a keyboard and be able to communicate with the OnlyKey app (required for TOTP).
-- [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/) - The qrexec framework is used by core Qubes components to implement communication between domains. 
+- [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/) - The qrexec framework is used by core Qubes components to implement communication between domains.
 - [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/) - The qrexec framework consists of a number of processes communicating with each other using a common IPC protocol, described in detail below.
 - [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/) - The qrexec allows implementing services not only as executable files, but also as Unix sockets.
 - [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/) - Provides automatic balancing of memory across participating PV and HVM domains, based on their memory demand
 - [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
-- [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online. 
+- [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
 
 ## Desktop Customization
 
@@ -212,7 +206,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 - [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 - [Wayland agent](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the [Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
-  
+
 ## GPU
 
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
@@ -227,11 +221,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Clearnet & Anonymous Networking
 
 ### DNS
+
 - [dnscrypt-proxy](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749) -  Run dnscrypt-proxy inside of sys-net to encrypt and secure dns-requests.
 
 ### Wireguard
 
-- [Mullvad VPN (FE38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own. 
+- [Mullvad VPN (Fedora-38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
 
 ### OpenVPN
 
@@ -275,7 +270,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 - [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
-  
+
 ## Exploitation Tools
 
 - [Awesome-Fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
@@ -289,7 +284,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 - [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
 - [Memflow](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-- [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.  
+- [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 - [Coredump](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
 - [Kvm](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
 - [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
@@ -300,8 +295,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Microlibvmi](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 - [Radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-
-
 
 ## Optics and Extra Info
 
@@ -323,7 +316,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Xen Exploitation
 
 - [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
-
 - [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
 - [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
 - [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
@@ -339,8 +331,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 - [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
 
-
-
 ## Qubes OS Server
 
 - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
@@ -350,16 +340,15 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
 - [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
 - [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
-  
 
 ## Qubes OS Legends
 
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
   - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
-Part One
+    Part One
   - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
-Part Two
+    Part Two
   - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
@@ -419,9 +408,9 @@ The Qubes OS Project has a presence on the following social media platforms:
 ## Adventure Further
 
 - Adventures start here ---> [Adventure Here!](https://github.com/sindresorhus/awesome) - All the awesome list.
-**[⬆ back to top](#awesome-qubes-os-)**
+  **[⬆ back to top](#awesome-qubes-os-)**
 
-``` :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X ```
+```:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X```
 
 ## Contributing
 
