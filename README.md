@@ -122,7 +122,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
 
 ## How-to guides
-
+- [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
 - [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 - [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 - [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
@@ -142,6 +142,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
   - [Automated Arkenfox Qubes browser install](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
 - [How to Implement TPM Boot Verification](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
+- [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
 
 ## Templates
