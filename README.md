@@ -174,6 +174,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Device handling security](https://www.qubes-os.org/doc/device-handling-security/) - Any additional ability a VM gains is additional attack surface.
 - [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/) - Updating dom0
 - [Firewall](https://www.qubes-os.org/doc/firewall/) - Every Qube in Qubes is connected to the network via a FirewallVM, which is used to enforce network-level policies.
+- [nft Firewall](https://forum.qubes-os.org/t/qubes-os-4-2-nftables-nft-firewall-guide/20933) - This is an example for a TCP redirection, for UDP you would have to replace tcp by udp.
 - [Passwordless root access in Qubes](https://www.qubes-os.org/doc/vm-sudo/) - In Qubes VMs there is no point in isolating the root account from the user account.
 - [Reducing the fingerprint of the text-based web browser w3m](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md) - You can reduce the amount of information w3m gives about itself and the environment it is running in (and, by extension, you).
 - [Running Tails in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md) - Tails stands for The Amnesic Incognito Live System.
@@ -227,6 +228,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Wireguard
 
 - [Mullvad VPN (Fedora38 + WG)](https://mullvad.net/en/help/wireguard-on-qubes-os/) - Privacy-first VPN provider's guide for Qubes OS. This guide bears an optimal method for setting up a WG ProxyVM (i.e `sys-vpn`); you may substitute out Mullvad's WG configuration files in place of your own.
+- [Wireguard setup](https://forum.qubes-os.org/t/wireguard-vpn-setup/19141) - This guide assumes you are using a VPN service that has wireguard support. 
 
 ### OpenVPN
 
