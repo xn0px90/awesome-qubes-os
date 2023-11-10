@@ -137,8 +137,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 - [How to persist Tailscale tunnel in QubesOS ](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
 - [How to use Qubes for journalists and Humans Rights Defenders](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
-  - [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/)
-  - [Automated Arkenfox Qubes browser install](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox)
+  - [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords. 
+  - [Automated Arkenfox Qubes browser install](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 - [How to Implement TPM Boot Verification](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
 - [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
