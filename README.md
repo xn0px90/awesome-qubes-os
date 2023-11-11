@@ -143,10 +143,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 
 ## Templates
-
+- [archlinux-minimal template](https://forum.qubes-os.org/t/archlinux-minimal-template/19052) - This is a community guide, not an official guide.
 - [Building a TemplateVM for a new OS](https://forum.qubes-os.org/docs?topic=18972) - If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice.
 - [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 - [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
+- [NetBSD templates](https://forum.qubes-os.org/t/netbsd-qube/19009) - Createa NetBSD template
 - [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 - [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
 - [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
@@ -199,6 +200,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Brightness-Ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2) - Easy brightness adjustment
 - [Bash completion](https://forum.qubes-os.org/docs?topic=19008) - How to install bash completion for Qubes OS commands.
 - [Custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3) - Place the custom folder icons ~/.local/share/icons is a persistent place to place the custom folder icons and so is /usr/share/icons.
+- [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 - [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - i3 is part of the stable repository (as of Qubes R3.1) and can be installed by using the dom0 update mechanism.
 - [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) -  KDE was the default desktop environment in Qubes
 - [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
@@ -223,6 +225,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
 - [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis. 
 - [Analyze Qubes OS VM ](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
+- [Url redirector](https://github.com/raffaeleflorio/qubes-url-redirector/) - This is a browser extension, aimed to improve surfing security. 
+- [Changing your Time Zone](https://forum.qubes-os.org/t/changing-your-time-zone/18983) - Change the system’s time zone in terminal you can issue the timedatectl command with the option set-timezone.
 
 ## Clearnet & Anonymous Networking
 
