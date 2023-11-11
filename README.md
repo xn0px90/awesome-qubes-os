@@ -221,7 +221,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Troubleshooting
 - [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
-- []() - 
+- [Traffic Analysis in Qubes OS](https://zrubi.hu/en/2017/traffic-analysis-qubes/) - You can place a ProxyVM between your AppVMs and Your NetVM. This way we can create an ideal topology for traffic analysis. 
+- [Analyze Qubes OS VM ](https://github.com/3hhh/qubes-performance) - Analyze Qubes OS VM startup performance.
 
 ## Clearnet & Anonymous Networking
 
