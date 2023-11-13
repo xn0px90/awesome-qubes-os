@@ -206,6 +206,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes-GUI-Rust](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 - [QubesOS Autostart Menu](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
+- [Qubes-Scripts](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 - [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 - [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 - [Wayland agent](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the [Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
