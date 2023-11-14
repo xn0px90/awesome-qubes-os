@@ -50,7 +50,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [How-to guides](#how-to-guides)
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
-  - [Customization](#desktop-customization)
+  - [Customization](#customization)
   - [GPU](#gpu)
   - [Clearnet \& Anonymous Networking](#clearnet--anonymous-networking)
     - [Wireguard](#wireguard)
