@@ -118,6 +118,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Templates
 
 - [archlinux-minimal template](https://forum.qubes-os.org/t/archlinux-minimal-template/19052) - This is a community guide, not an official guide.
+- [audio-qubes](https://forum.qubes-os.org/t/audio-qube/20685) - An audio qube acts as a secure handler for potentially malicious audio devices, preventing them from coming into contact with dom0
 - [Building a TemplateVM for a new OS](https://forum.qubes-os.org/docs?topic=18972) - If you don’t like using one of the existing templates because of specific administration, package management or other building needs, you can build a TemplateVM for your distribution of choice.
 - [Debian templates](https://www.qubes-os.org/doc/templates/debian/) - The Debian template is an officially supported template in Qubes OS.
 - [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/) - The Fedora template is the default template in Qubes OS.
