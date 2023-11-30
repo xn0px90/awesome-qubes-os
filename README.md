@@ -398,7 +398,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Adventure Further
 
-- Adventures start here ---> [Adventure Here!](https://github.com/sindresorhus/awesome) - All the awesome list.
+- Adventures start here ---> [Adventure Here!](https://github.com/sindresorhus/awesome) - All the awesome lists.
   **[⬆ back to top](#awesome-qubes-os-)**
 
 ```:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X```
