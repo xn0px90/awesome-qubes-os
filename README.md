@@ -333,7 +333,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Port forwarding](https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248) - Qubes-os port forwarding to allow external connections 
 
 ## Qubes OS Legends
-- [Claracrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
   - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
