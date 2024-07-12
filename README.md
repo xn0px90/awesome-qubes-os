@@ -223,7 +223,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 - [i2p-Whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on Qubes-Whonix.
 - [ipfs](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
-- [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
+- [Lokinet]([https://github.com/oxen-io/lokinet](https://privsec.dev/posts/qubes/using-lokinet-on-qubes-os/)) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 - [Really disposable ram based qubes](https://forum.qubes-os.org/t/really-disposable-ram-based-qubes/21532) - You can use your QubesOS 𝚜𝚝𝚊𝚝𝚎𝚕𝚎𝚜𝚜 just like TailsOS, with persistent storage for VMs. That is pretty simple! It takes 6Gb of extra 𝚁𝙰𝙼 (for store root filesystem files).
 - [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 - [How to bypass the GFW on Qubes OS when you’re in China](https://forum.qubes-os.org/t/how-to-bypass-the-gfw-on-qubes-os-when-youre-in-china-qubes-os/14957) - The purpose of this article is to provide several feasible ways to bypass the GFW for you to choose.
