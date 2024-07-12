@@ -215,7 +215,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### OpenVPN
 
-- [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+- [How To make a VPN Gateway in Qubes](https://forum.qubes-os.org/t/configuring-a-proxyvm-vpn-gateway/19061) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 - [Qubes-Tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 - [Mullvad VPN (Dedian 12 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 
