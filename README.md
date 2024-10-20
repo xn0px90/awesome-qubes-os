@@ -86,10 +86,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 <<<<<<< HEAD
 - [Qubes OS 4.2.3](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.3 download.
 - [Qubes OS 4.2.3 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2.3 Weekly Build download.
-=======
-- [Qubes OS 4.2.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.1 download.
-- [Qubes OS 4.2.2 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2 Weekly Build download.
->>>>>>> parent of 4cb779a (update)
 - [Upgrading](https://www.qubes-os.org/doc/upgrade/) - These guides are for upgrading from one version of Qubes to another.
 
 ## How-to guides
