@@ -237,6 +237,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Kernels
 
 - [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+- [Rump](https://github.com/rumpkernel/rumprun) - Rump kernels enable you to build the software stack you need without forcing you to reinvent the wheels.
 
 ### Microkernels
 
@@ -252,6 +253,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 - [Qubes-Mirage-Firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+- [Unikraft](https://unikraft.org/) - Unikraft powers the next-generation of cloud native applications by enabling you to radically customize and build custom OS/kernels, unlocking best-in-class performance, security primitives and efficiency savings.
 
 ### Unikernel-like
 
