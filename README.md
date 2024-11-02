@@ -218,7 +218,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How To make a VPN Gateway in Qubes](https://forum.qubes-os.org/t/configuring-a-proxyvm-vpn-gateway/19061) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 - [Qubes-Tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 - [Mullvad VPN (Dedian 12 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
-
+- [Fedora 40 Minimal(OpenVPN)](https://forum.qubes-os.org/t/fedora-40-minimal-openvpn-qubes-4-2-six-easy-steps/27795) - Qubes 4.2 - Six Easy Steps!
 ### Anonymity
 
 - [i2p-Whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861) - Temporary way to run i2p on Qubes-Whonix.
