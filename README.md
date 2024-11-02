@@ -254,6 +254,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
 - [Qubes-Mirage-Firewall](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 - [Unikraft](https://unikraft.org/) - Unikraft powers the next-generation of cloud native applications by enabling you to radically customize and build custom OS/kernels, unlocking best-in-class performance, security primitives and efficiency savings.
+- [Unik](https://github.com/solo-io/unik) - A platform for automating unikernel & MicroVM compilation and deployment.
 
 ### Unikernel-like
 
