@@ -347,7 +347,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-  - [Templates](https://qubes.3isec.org/Templates_4.1/) - Unman custom templates.
+  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
   - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
 - [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
