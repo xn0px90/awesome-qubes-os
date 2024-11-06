@@ -437,6 +437,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 - [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 - [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+- [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes)- Dark Net QubesOS .onion forum
 - [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
 - [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
 - [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
