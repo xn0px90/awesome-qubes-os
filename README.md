@@ -262,7 +262,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Tor
 
 - [Snowflake Proxy in QubesOS](https://forum.qubes-os.org/t/functional-snowflake-proxy-in-sys-whonix-tor-control-panel-fix-full-guide/28866) - A Qubes-Whonix-17 Tor Control Panel snowflake proxy fix/installation guide.
-- [Qubes OS Tor .onion links](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes Tor onion services 
+- [Qubes Tor onion services](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes OS Tor .onion links 
 
 ### Anonymity
 
