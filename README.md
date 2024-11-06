@@ -197,6 +197,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 - [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - HVM for gaming!
+- [Salt: automating NVIDIA GPU passthrough](https://forum.qubes-os.org/t/wip-salt-automating-nvidia-gpu-passthrough/30038) - This “guide” aims to explore and give a practical example of leveraging SaltStack to achieve the same goal as NVIDIA GPU passthrough into Linux HVMs for CUDA applications. 
 
 ## Troubleshooting
 - [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
@@ -236,6 +237,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Split Bitcoin Wallet](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 - [Split Monero Wallet](https://www.getmonero.org/resources/user-guides/cli_wallet_daemon_isolation_qubes_whonix.html) - With Qubes + Whonix you can have a Monero wallet that is without networking and running on a virtually isolated system from the Monero daemon which has all of its traffic forced over Tor.
 - [Awesome-DeSci](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+- [Ultimate Guide on Using Trezor on Qubes](https://ursidaecyber.com/how-to-use-trezor-on-qubes-os/) - his guide explains how to use Trezor cryptocurrency hardware wallets on Qubes OS.
 
 ## Kernels
 
@@ -329,10 +331,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Qubes OS Server
 
+- [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
 - [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
+- [Multi-user Qubes: Using sys-gui to make non-adminstrative user logins](https://forum.qubes-os.org/t/multi-user-qubes-using-sys-gui-to-make-non-adminstrative-user-logins/29967) - Here we try to create restricted sys-guis, where they only need to see the parts that pertain to them. Basically a administrative gui login (dom0), and a restricted user sys-gui login.
 - [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
 - [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
-- [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
+- [Qubes Admin Policies/API](https://forum.qubes-os.org/t/how-to-use-the-qubes-admin-policies-api-despite-the-lack-of-documentation-wip/29863/1) - The qubes admin policies are core to modern qubes.
 - [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
 - [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
 - [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
