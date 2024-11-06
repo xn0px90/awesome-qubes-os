@@ -123,6 +123,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 - [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
 - [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
+- [Parrot](https://qubes.3isec.org/Templates_4.2/) - Parrot Security is a Debian-based OS with over 600 tools for hacking, pentesting and software development. It is free, open source, secure, portable and customizable for various environments and devices
 - [Pentesting: BlackArch](https://forum.qubes-os.org/t/blackarch-templatevm/19010) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 - [Pentesting: Kali](https://forum.qubes-os.org/t/kali-template-available/1706) - How to create a Kali Linux VM.
 - [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
@@ -134,6 +135,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
 - [Waydroid template](https://forum.qubes-os.org/t/waydroid-template/23356) - This guide is for setting up minimal Waydroid template.
 - [Shadow qube](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
+-[Ubuntu 2022.4 minimal](https://qubes.3isec.org/Templates_4.2/) - Ubuntu 22.04 (Jammy Jellyfish) Releasesis an open-source software platform that runs everywhere from the PC to the server and the cloud.
+- [Ubuntu 2024.4 minimal](https://qubes.3isec.org/Templates_4.2/)) - Ubuntu 24.04.1 (Noble Numbat) ReleasesUbuntu is an open-source software platform that runs everywhere from the PC to the server and the cloud.
 - [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
 
