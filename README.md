@@ -20,7 +20,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Customization](#customization)
-  - [ML LLM's & AI](#ML-LLM's-&-AI) 
   - [GPU](#gpu)
   - [ML LLM \& AI](#ML-LLM--AI) 
   - [Clearnet \& Anonymous Networking](#clearnet--anonymous-networking)
@@ -336,12 +335,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ## Optics and Extra Info
-
-- [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
-- [Hipervisor From Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
-- [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
-
-- [Qubes OS Summit] - 3mdeb Summit videos
+### Qubes OS Summit - 3mdeb Summit videos
   - [Qubes OS Summit 2024](https://youtu.be/lJFxtdan9qY?list=PLuISieMwVBpJmIaHgyv7yKDwrHpqym9Qh) - Day 1
   - [Qubes OS Summit 2024](https://youtu.be/9AkBeBwxdA0?list=PLuISieMwVBpL5S7kPUHKenoFj_YJ8Y0_d) - Day 2
   - [Qubes OS Summit 2023](https://www.youtube.com/watch?v=_UxndcxIngw) - Day 1
@@ -350,7 +344,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Qubes OS summit 2022](https://www.youtube.com/watch?v=A9GrlQsQc7Q) - Day 2
   - [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=y3V_V0Vllas) - Day 1
   - [Qubes OS-3mdeb mini-summit 2021](https://www.youtube.com/watch?v=KdDr6TiqF0k) - Day 2
-- [Xen project summit 2024]
+  ### Xen project summit 2024
   - [Demi Marie Obenour: Reasonably Secure GPU Acceleration](https://youtu.be/FrKEUVB-BYM?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Marek Marczykowski-Górecki: Host and Guest Suspend Under Xen - S3 and S0ix](https://youtu.be/4UUEt4rll6U?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Marek Marczykowski-Górecki: Linux Stubdomains Status Update](https://youtu.be/3Lg5iTmXl-I?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
