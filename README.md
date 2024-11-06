@@ -55,7 +55,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
 - [Qubes OS GitHub Documentation](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
-- [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ## System Information & Requirements
 
@@ -262,7 +261,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Tor
 
 - [Snowflake Proxy in QubesOS](https://forum.qubes-os.org/t/functional-snowflake-proxy-in-sys-whonix-tor-control-panel-fix-full-guide/28866) - A Qubes-Whonix-17 Tor Control Panel snowflake proxy fix/installation guide.
-- [Qubes Tor onion services](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes OS Tor .onion links 
+- [Qubes Tor onion services](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes OS Tor .onion links
+- [Onionizing Repositories](https://www.whonix.org/wiki/Onionizing_Repositories) - The guide explains how to configure experimental Tor onion services for APT repositories.
+- [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
+
 
 ### Anonymity
 
