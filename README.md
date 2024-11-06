@@ -348,7 +348,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Demi Marie Obenour: Reasonably Secure GPU Acceleration](https://youtu.be/FrKEUVB-BYM?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Marek Marczykowski-Górecki: Host and Guest Suspend Under Xen - S3 and S0ix](https://youtu.be/4UUEt4rll6U?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Marek Marczykowski-Górecki: Linux Stubdomains Status Update](https://youtu.be/3Lg5iTmXl-I?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
-  - [Full xen project summit playlist](https://www.youtube.com/playlist?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
+  - [Full xen project summit 2024 playlist](https://www.youtube.com/playlist?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
 ### UX - User Experience
   - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
   - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
