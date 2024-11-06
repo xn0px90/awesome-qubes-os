@@ -20,6 +20,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Customization](#customization)
+  - [ML LLM's & AI]()#ML-LLM's-&-AI) 
   - [GPU](#gpu)
   - [Clearnet \& Anonymous Networking](#clearnet--anonymous-networking)
     - [Wireguard](#wireguard)
@@ -203,6 +204,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 - [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - HVM for gaming!
 - [Salt: automating NVIDIA GPU passthrough](https://forum.qubes-os.org/t/wip-salt-automating-nvidia-gpu-passthrough/30038) - This “guide” aims to explore and give a practical example of leveraging SaltStack to achieve the same goal as NVIDIA GPU passthrough into Linux HVMs for CUDA applications. 
+
+## ML LLM's & AI 
+- [Running local LLMs with or without GPU acceleration](https://forum.qubes-os.org/t/running-local-llms-with-or-without-gpu-acceleration/23283) - This guide explains how to install text-generation-webui (oobabooga) on Qubes OS.
 
 ## Troubleshooting
 - [Mounting a qube’s private storage in another qube](https://forum.qubes-os.org/t/mounting-a-qubes-private-storage-in-another-qube/19080) -  Useful for data recovery.
