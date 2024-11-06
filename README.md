@@ -20,7 +20,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Templates](#templates)
   - [VM-Hardening](#vm-hardening)
   - [Customization](#customization)
-  - [ML LLM's & AI]()#ML-LLM's-&-AI) 
+  - [ML LLM's & AI](#ML-LLM's-&-AI) 
   - [GPU](#gpu)
   - [Clearnet \& Anonymous Networking](#clearnet--anonymous-networking)
     - [Wireguard](#wireguard)
