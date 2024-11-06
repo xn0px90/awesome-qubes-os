@@ -91,7 +91,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## How-to guides
 
-- [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from say 20G to 50G.
+- [How to resize dom0](https://forum.qubes-os.org/t/resize-dom0/10886) - Just in case anyone needs help with this to resize dom0 from 20G to 50G.
 - [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 - [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 - [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
@@ -151,7 +151,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Zoom Disp VM](https://forum.qubes-os.org/t/running-zoom-in-a-dispvm/19062) - Running Zoom in a DispVM.
 - [PrestiumOS HVM](https://forum.qubes-os.org/t/prestium-os-setup/22545/1) - Prestium OS is a Tails OS-like live linux distro.
 - [PiHole Cloudflared](https://github.com/92VV3M42d3v8/PiHole/blob/master/PiHole%20Cloudflared) - PiHole Cloudflared in QubesOS with NextDNS (DNS over Https).
-]
 
 ## VM-Hardening
 
@@ -440,7 +439,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 - [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 - [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
-- [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes)- Dark Net QubesOS .onion forum
+- [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum
 - [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
 - [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
 - [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
