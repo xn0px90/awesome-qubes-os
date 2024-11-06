@@ -123,7 +123,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Linux HVMs](https://forum.qubes-os.org/docs?topic=19008) - Fixing Linux distro HVMs
 - [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/) - The minimal templates are lightweight versions of their standard template counterparts.
 - [Multimedia template](https://forum.qubes-os.org/t/configuring-a-multimedia-templatevm/19055) - Configuring a “Multimedia” TemplateVM
-- [Parrot](https://qubes.3isec.org/Templates_4.2/) - Parrot Security is a Debian-based OS with over 600 tools for hacking, pentesting and software development. It is free, open source, secure, portable and customizable for various environments and devices
+- [Pentesting: Parrot](https://qubes.3isec.org/Templates_4.2/) - Parrot Security is a Debian-based OS with over 600 tools for hacking, pentesting and software development. It is free, open source, secure, portable and customizable for various environments and devices
 - [Pentesting: BlackArch](https://forum.qubes-os.org/t/blackarch-templatevm/19010) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 - [Pentesting: Kali](https://forum.qubes-os.org/t/kali-template-available/1706) - How to create a Kali Linux VM.
 - [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
