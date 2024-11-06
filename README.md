@@ -26,6 +26,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Clearnet \& Anonymous Networking](#clearnet--anonymous-networking)
     - [Wireguard](#wireguard)
     - [OpenVPN](#openvpn)
+    - [Tor](#tor)
     - [Anonymity](#anonymity)
     - [Crypto](#crypto)
   - [Kernels](#kernels)
@@ -95,7 +96,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How to back up, restore, and migrate](https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/) - With Qubes, it’s easy and secure to back up and restore your whole system, as well as to migrate between two physical machines.
 - [How to copy and move files](https://www.qubes-os.org/doc/how-to-copy-and-move-files/) - This page is about copying and moving files.
 - [How to copy and paste text](https://www.qubes-os.org/doc/how-to-copy-and-paste-text/) - This page is about copying and pasting plain text.
-  - [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/)
+- [Inter-qube file copying (qfilecopy)](https://www.qubes-os.org/doc/qfilecopy/) - File copying with qfilecopy.
 - [How to copy from dom0](https://www.qubes-os.org/doc/how-to-copy-from-dom0/) - This page covers copying files and clipboard text between dom0 and domUs.
 - [How to enter fullscreen mode](https://www.qubes-os.org/doc/how-to-enter-fullscreen-mode/) - Normally, the Qubes GUI virtualization daemon restricts the VM from “owning” the full screen.
 - [How to install software](https://www.qubes-os.org/doc/how-to-install-software/) - When you wish to install software in Qubes OS, you should generally install it in a template.
@@ -112,6 +113,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Automated Arkenfox Qubes browser install](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 - [How to Implement TPM Boot Verification](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
 - [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
+- [Qubes Salt Beginner’s Guide](https://forum.qubes-os.org/t/qubes-salt-beginners-guide/20126) - How to guide for beginners who enjoy an hands-on introduction with examples.
+- [Reverse Tethering & Screen Mirroring Qube for Android Device](https://forum.qubes-os.org/t/reverse-tethering-screen-mirroring-qube-for-android-device/28920) - Control your Android Device from Qubes OS while providing Network to the Android Device.
+- [How to migrate qubes to a new computer ](https://forum.qubes-os.org/t/how-to-efficiently-migrate-qubes-to-a-new-computer-with-a-direct-network-connection/23203/2) - How to efficiently migrate qubes to a new computer with a direct network connection
+- [USB MFP printer/scanner](https://forum.qubes-os.org/t/how-to-get-a-usb-mfp-printer-scanner-working-in-r4-2/24520) - How to get a USB MFP printer/scanner working in R4.2
 
 ## Templates
 
@@ -136,12 +141,18 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 - [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
 - [Template manager](https://www.qubes-os.org/doc/template-manager/) -  A template manager application.
+- [Android VM options](https://forum.qubes-os.org/t/android-vm-options-and-blissos-installation-in-a-raw-vm-i-e-no-qubes-integration-collecting-all-realted-information/27582) -  There are multiple “android on PC” type distributions that one could try in a VM. Here are the 3!
 - [Waydroid template](https://forum.qubes-os.org/t/waydroid-template/23356) - This guide is for setting up minimal Waydroid template.
 - [Shadow qube](https://github.com/kennethrrosen/qubes-shadow-dvm) - The below script will create a Qube, launch the Tor browser, wait for the browser to close, then remove the qube and its RAM pool.
 - [Ubuntu 2022.4 minimal](https://qubes.3isec.org/Templates_4.2/) - Ubuntu 22.04 (Jammy Jellyfish) Releasesis an open-source software platform that runs everywhere from the PC to the server and the cloud.
 - [Ubuntu 2024.4 minimal](https://qubes.3isec.org/Templates_4.2/) - Ubuntu 24.04.1 (Noble Numbat) ReleasesUbuntu is an open-source software platform that runs everywhere from the PC to the server and the cloud.
 - [USB Qubes](https://www.qubes-os.org/doc/usb-qubes/) - A USB qube acts as a secure handler for potentially malicious USB devices, preventing them from coming into contact with dom0 (which could otherwise be fatal to the security of the whole system). I
 - [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/) - If you would like to use Xfce (more lightweight compared to GNOME desktop environment) Linux distribution in your Qubes, you can install one of the available Xfce templates for Fedora, CentOS or Gentoo.
+- [GuixOS HVM](https://forum.qubes-os.org/t/install-guix-os-in-a-standalone-hvm/6209) - Install Guix OS in a standalone HVM
+- [Zoom Disp VM](https://forum.qubes-os.org/t/running-zoom-in-a-dispvm/19062) - Running Zoom in a DispVM.
+- [PrestiumOS HVM](https://forum.qubes-os.org/t/prestium-os-setup/22545/1) - Prestium OS is a Tails OS-like live linux distro.
+- [PiHole Cloudflared](https://github.com/92VV3M42d3v8/PiHole/blob/master/PiHole%20Cloudflared) - PiHole Cloudflared in QubesOS with NextDNS (DNS over Https).
+]
 
 ## VM-Hardening
 
@@ -176,6 +187,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/) - Provides automatic balancing of memory across participating PV and HVM domains, based on their memory demand
 - [TUFF](https://theupdateframework.io/security/) - We can think of a software update system as “secure” if:
 - [YubiKey](https://www.qubes-os.org/doc/yubikey/) - Most use cases for the YubiKey can be achieved exactly as described by the manufacturer or other instructions found online.
+- [Hardening sys-net](https://forum.qubes-os.org/t/hardening-sys-net/24345) - This guide works no matter whether or not you chose disposable sys-net or not. no nonsense guide, Lets get in!
+- [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
+- [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
 
 ## Customization
 - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
@@ -192,7 +206,12 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 - [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 - [Wayland agent](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the [Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
-
+- [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
+- [Tiling XFCE ](https://forum.qubes-os.org/t/tiling-xfce-windows-with-shortcut-keys/22840) - Titled windows in XFCE with shortcut keys.
+- [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
+- [Dark Theme](https://forum.qubes-os.org/t/dark-theme-in-dom0/18997) -  The following text describes how to change the default light theme to a dark theme.
+- [Rxvt Terminal](https://forum.qubes-os.org/t/rxvt-terminal/18992) - rxvt-unicode is an advanced and efficient vt102 emulator.
+- [CPU monitor per VMs](https://forum.qubes-os.org/t/cpu-monitor-per-vms/22829) - Individual VM monitoring.
 ## GPU
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
 - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
@@ -201,9 +220,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/) - This page is part of device handling in qubes.
 - [Install-nvidia-driver](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md) - Nvidia proprietary driver installation.
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
-- [Gaming-HVM](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/gaming-hvm.md) - HVM for gaming!
-- [Salt: automating NVIDIA GPU passthrough](https://forum.qubes-os.org/t/wip-salt-automating-nvidia-gpu-passthrough/30038) - This “guide” aims to explore and give a practical example of leveraging SaltStack to achieve the same goal as NVIDIA GPU passthrough into Linux HVMs for CUDA applications. 
-
+- [Gaming HVM](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)) - HVM for gaming!
+- [Salt: automating NVIDIA GPU passthrough](https://forum.qubes-os.org/t/wip-salt-automating-nvidia-gpu-passthrough/30038) - This “guide” aims to explore and give a practical example of leveraging SaltStack to achieve the same goal as NVIDIA GPU passthrough into Linux HVMs for CUDA applications.
+- [Software RAID (mdadm) Qubes Installation Procedure](https://forum.qubes-os.org/t/software-raid-mdadm-qubes-installation-procedure-wip/27886) - CLI & Software Raid installation procedure.
+- [Qubes SaltStack configuration of Videos Playback VM](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - An mpv salt start step-by-step easy guide.
+- [Improve video playback performance including YouTube (ytfzf)](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube-ytfzf/21946/1) - This guide will show you how to install the mpv player and use it with maximum performance.
+- [GPU passthrough with lots of RAM](https://forum.qubes-os.org/t/quick-howto-gpu-passthrough-with-lots-of-ram/21156) - GPU passthru with max RAM
+  
 ## ML, LLM & AI 
 - [Running local LLMs with or without GPU acceleration](https://forum.qubes-os.org/t/running-local-llms-with-or-without-gpu-acceleration/23283) - This guide explains how to install text-generation-webui (oobabooga) on Qubes OS.
 
@@ -231,6 +254,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes-Tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 - [Mullvad VPN (Dedian 12 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 - [Fedora 40 Minimal(OpenVPN)](https://forum.qubes-os.org/t/fedora-40-minimal-openvpn-qubes-4-2-six-easy-steps/27795) - Qubes 4.2 - Six Easy Steps!
+
+### VLESS
+- [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems. It is needed when wireguard is blocked.
+
+
+### Tor
+
+-[Snowflake Proxy in QubesOS](https://forum.qubes-os.org/t/functional-snowflake-proxy-in-sys-whonix-tor-control-panel-fix-full-guide/28866) - A Qubes-Whonix-17 Tor Control Panel snowflake proxy fix/installation guide.
 
 ### Anonymity
 
@@ -355,6 +386,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
 - [Port forwarding](https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248) - Qubes-os port forwarding to allow external connections
 - [ Opensnitch Nodes](https://forum.qubes-os.org/t/an-opensnitch-nodes-implementation-to-filter-outbound-traffic-from-multiple-qubes/29369) -A node is a daemon running on a machine. You can install the daemon on multiple machines, and manage them from the server
+- [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
+- [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
+- [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
+- [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
+- [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
+- [Colored! network information](https://forum.qubes-os.org/t/colored-network-information-iptables-routes-addresses-shell-reporting-networking/22258/1) - Colorful network information with iptables & ip.
+- [Visualize Qubes Configuration Without Trust](https://forum.qubes-os.org/t/visualize-qubes-configuration-without-trust-a-use-case-for-the-qubes-admin-api/23072) - Visualize Qubes Configuration with the Qubes Admin API.
 
 ## Qubes OS Legends
 - [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
