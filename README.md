@@ -144,6 +144,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## VM-Hardening
 
 - [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
+- [Kicksecure for DISP-sys*](https://forum.qubes-os.org/t/guide-kicksecure-for-disp-sys/13324) - How to create disposable sys-usb, sys-net, sys-firewall off a debian-11 minimal template with Kicksecure and other hardening features for DISP-sys*.
 - [Qcrypt](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 - [Qubes-VM-hardening](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 - [Anonymizing your MAC Address](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
