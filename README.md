@@ -263,6 +263,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes Tor onion services](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes OS Tor .onion links
 - [Onionizing Repositories](https://www.whonix.org/wiki/Onionizing_Repositories) - The guide explains how to configure experimental Tor onion services for APT repositories.
 - [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
+- [QubesOS to be remotely manageabl](https://www.whonix.org/wiki/Dev/Qubes_Remote_Support) - QubesOS to be remotely manageable from on-demand, ephemeral, hidden onion service to dom0/AdminVM.
+- [Qubes-Whonix development notes](https://www.whonix.org/wiki/Dev/Qubes) - Whonix development notes.
 
 
 ### Anonymity
@@ -399,6 +401,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
 - [Colored! network information](https://forum.qubes-os.org/t/colored-network-information-iptables-routes-addresses-shell-reporting-networking/22258/1) - Colorful network information with iptables & ip.
 - [Visualize Qubes Configuration Without Trust](https://forum.qubes-os.org/t/visualize-qubes-configuration-without-trust-a-use-case-for-the-qubes-admin-api/23072) - Visualize Qubes Configuration with the Qubes Admin API.
+- [SSH or VNC into Qubes dom0](https://www.whonix.org/wiki/Remote_Administration#Qubes_-_SSH_or_VNC_into_Qubes_dom0) - 
+
 
 ## Qubes OS Legends
 - [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
