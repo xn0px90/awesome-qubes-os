@@ -188,6 +188,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Hardening sys-net](https://forum.qubes-os.org/t/hardening-sys-net/24345) - This guide works no matter whether or not you chose disposable sys-net or not. no nonsense guide, Lets get in!
 - [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
 - [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
+- [Qubes Shutdown Idle Script](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness_monitor), shuts it down.
 
 ## Customization
 - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
