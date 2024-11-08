@@ -263,7 +263,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes Tor onion services](https://www.qubes-os.org/news/2019/04/17/tor-onion-services-available-again/) -  Qubes OS Tor .onion links
 - [Onionizing Repositories](https://www.whonix.org/wiki/Onionizing_Repositories) - The guide explains how to configure experimental Tor onion services for APT repositories.
 - [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
-- [QubesOS to be remotely manageabl](https://www.whonix.org/wiki/Dev/Qubes_Remote_Support) - QubesOS to be remotely manageable from on-demand, ephemeral, hidden onion service to dom0/AdminVM.
+- [QubesOS to be remotely manageable thru tor](https://www.whonix.org/wiki/Dev/Qubes_Remote_Support) - QubesOS to be remotely manageable from on-demand, ephemeral, hidden onion service to dom0/AdminVM.
 - [Qubes-Whonix development notes](https://www.whonix.org/wiki/Dev/Qubes) - Whonix development notes.
 - [Tips on Remaining Anonymous](https://www.whonix.org/wiki/DoNot#Use_Clearnet_and_Tor_at_the_Same_Time) - The wiki page provides guidelines and good habits for online privacy and security, with a focus on distinguishing between anonymity and pseudonymity.
 - 
