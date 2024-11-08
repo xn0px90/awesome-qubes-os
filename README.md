@@ -482,6 +482,7 @@ The Qubes OS Project has a presence on the following social media platforms:
   **[⬆ back to top](#awesome-qubes-os-)**
 
 ```:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X```
+
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
 
 ## Contributing
