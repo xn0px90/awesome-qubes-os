@@ -32,11 +32,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Microkernels](#microkernels)
     - [Unikernels](#unikernels)
     - [Unikernel-like](#unikernel-like)
+  - [Qubes OS Server](#qubes-os-server)
   - [Exploitation Tools](#exploitation-tools)
   - [Optics and Extra Info](#optics-and-extra-info)
     - [Xen Exploitation](#xen-exploitation)
     - [Web articles](#web-articles)
-  - [Qubes OS Server](#qubes-os-server)
   - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
   - [Streamers](#streamers)
@@ -314,6 +314,32 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 - [Graphene](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
+
+## Qubes OS Server
+
+- [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
+- [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
+- [Multi-user Qubes: Using sys-gui to make non-adminstrative user logins](https://forum.qubes-os.org/t/multi-user-qubes-using-sys-gui-to-make-non-adminstrative-user-logins/29967) - Here we try to create restricted sys-guis, where they only need to see the parts that pertain to them. Basically a administrative gui login (dom0), and a restricted user sys-gui login.
+- [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+- [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
+- [Qubes Admin Policies/API](https://forum.qubes-os.org/t/how-to-use-the-qubes-admin-policies-api-despite-the-lack-of-documentation-wip/29863/1) - The qubes admin policies are core to modern qubes.
+- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
+- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
+- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
+- [Port forwarding](https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248) - Qubes-os port forwarding to allow external connections
+- [ Opensnitch Nodes](https://forum.qubes-os.org/t/an-opensnitch-nodes-implementation-to-filter-outbound-traffic-from-multiple-qubes/29369) -A node is a daemon running on a machine. You can install the daemon on multiple machines, and manage them from the server
+- [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
+- [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
+- [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
+- [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
+- [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
+- [Colored! network information](https://forum.qubes-os.org/t/colored-network-information-iptables-routes-addresses-shell-reporting-networking/22258/1) - Colorful network information with iptables & ip.
+- [Visualize Qubes Configuration Without Trust](https://forum.qubes-os.org/t/visualize-qubes-configuration-without-trust-a-use-case-for-the-qubes-admin-api/23072) - Visualize Qubes Configuration with the Qubes Admin API.
+- [SSH or VNC into Qubes dom0](https://www.whonix.org/wiki/Remote_Administration#Qubes_-_SSH_or_VNC_into_Qubes_dom0) - tutorial on how to SSH or VNC in to dom0
+- [qubes-remote-support-receiver dom0 scripts](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
+- [Web VNC](https://forum.qubes-os.org/t/remote-qubes-user-testing-running-qubes-in-the-browser/13817) - Running Qubes in the Browser
+
+
 ## Exploitation Tools
 
 - [Awesome-Fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
@@ -382,30 +408,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 - [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 - [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
-
-## Qubes OS Server
-
-- [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
-- [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
-- [Multi-user Qubes: Using sys-gui to make non-adminstrative user logins](https://forum.qubes-os.org/t/multi-user-qubes-using-sys-gui-to-make-non-adminstrative-user-logins/29967) - Here we try to create restricted sys-guis, where they only need to see the parts that pertain to them. Basically a administrative gui login (dom0), and a restricted user sys-gui login.
-- [Qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-- [Qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
-- [Qubes Admin Policies/API](https://forum.qubes-os.org/t/how-to-use-the-qubes-admin-policies-api-despite-the-lack-of-documentation-wip/29863/1) - The qubes admin policies are core to modern qubes.
-- [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
-- [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
-- [Qubes core stack](https://www.qubes-os.org/doc/qubes-core-stack/) - Introducing the Next Generation Qubes Core Stack.
-- [Port forwarding](https://gist.github.com/fepitre/941d7161ae1150d90e15f778027e3248) - Qubes-os port forwarding to allow external connections
-- [ Opensnitch Nodes](https://forum.qubes-os.org/t/an-opensnitch-nodes-implementation-to-filter-outbound-traffic-from-multiple-qubes/29369) -A node is a daemon running on a machine. You can install the daemon on multiple machines, and manage them from the server
-- [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
-- [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
-- [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
-- [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
-- [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
-- [Colored! network information](https://forum.qubes-os.org/t/colored-network-information-iptables-routes-addresses-shell-reporting-networking/22258/1) - Colorful network information with iptables & ip.
-- [Visualize Qubes Configuration Without Trust](https://forum.qubes-os.org/t/visualize-qubes-configuration-without-trust-a-use-case-for-the-qubes-admin-api/23072) - Visualize Qubes Configuration with the Qubes Admin API.
-- [SSH or VNC into Qubes dom0](https://www.whonix.org/wiki/Remote_Administration#Qubes_-_SSH_or_VNC_into_Qubes_dom0) - tutorial on how to SSH or VNC in to dom0
-- [qubes-remote-support-receiver dom0 scripts](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
-
 
 ## Qubes OS Legends
 - [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
