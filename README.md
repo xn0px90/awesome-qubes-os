@@ -150,6 +150,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Zoom Disp VM](https://forum.qubes-os.org/t/running-zoom-in-a-dispvm/19062) - Running Zoom in a DispVM.
 - [PrestiumOS HVM](https://forum.qubes-os.org/t/prestium-os-setup/22545/1) - Prestium OS is a Tails OS-like live linux distro.
 - [PiHole Cloudflared](https://github.com/92VV3M42d3v8/PiHole/blob/master/PiHole%20Cloudflared) - PiHole Cloudflared in QubesOS with NextDNS (DNS over Https).
+- [Fedora template in-place upgrade](https://www.qubes-os.org/doc/templates/fedora/in-place-upgrade/#detailed-instructions-for-standard-fedora-templates) - How to upgrade a Fedora template in-place.
 
 ## VM-Hardening
 
