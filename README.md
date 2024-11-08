@@ -211,6 +211,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Rxvt Terminal](https://forum.qubes-os.org/t/rxvt-terminal/18992) - rxvt-unicode is an advanced and efficient vt102 emulator.
 - [CPU monitor per VMs](https://forum.qubes-os.org/t/cpu-monitor-per-vms/22829) - Individual VM monitoring.
 - [Custom App entries for the Q Menu](https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/) - App menu shortcut troubleshooting.
+- [xfce dark mode ](https://forum.qubes-os.org/t/guide-xfce-global-dark-mode-in-qubes-4-0-4-1/10757) - Xfce global dark mode in Qubes
 
 ## GPU
 
