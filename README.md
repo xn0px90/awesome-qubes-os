@@ -39,7 +39,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Web articles](#web-articles)
   - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
-  - [Streamers](#streamers)
   - [Companies using Qubes OS](#companies-using-qubes-os)
   - [Social media](#social-media)
   - [Contributing](#contributing)
@@ -444,11 +443,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
   [The Guardian]
   - [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
-
-## Streamers
-
-- [Infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
-- [xn0px90](https://twitch.tv/xn0px90) - First Full Time Info-Sec Qubes-OS Streamer!
 
 ## Companies using Qubes OS
 
