@@ -210,7 +210,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Dark Theme](https://forum.qubes-os.org/t/dark-theme-in-dom0/18997) -  The following text describes how to change the default light theme to a dark theme.
 - [Rxvt Terminal](https://forum.qubes-os.org/t/rxvt-terminal/18992) - rxvt-unicode is an advanced and efficient vt102 emulator.
 - [CPU monitor per VMs](https://forum.qubes-os.org/t/cpu-monitor-per-vms/22829) - Individual VM monitoring.
+- [Custom App entries for the Q Menu](https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/) - App menu shortcut troubleshooting.
+
 ## GPU
+
 - [GUI-configuration](https://www.qubes-os.org/doc/gui-configuration/) - Adjust your GUI configuration to meet your display needs.
 - [GUI-domain](https://www.qubes-os.org/doc/gui-domain/) - On this page, we describe how to set up a GUI domain.
 - [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/) - Learn to troubleshoot your GUI configuration.
@@ -338,6 +341,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [SSH or VNC into Qubes dom0](https://www.whonix.org/wiki/Remote_Administration#Qubes_-_SSH_or_VNC_into_Qubes_dom0) - tutorial on how to SSH or VNC in to dom0
 - [qubes-remote-support-receiver dom0 scripts](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
 - [Web VNC](https://forum.qubes-os.org/t/remote-qubes-user-testing-running-qubes-in-the-browser/13817) - Running Qubes in the Browser
+- [VNC](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 
 
 ## Exploitation Tools
@@ -357,6 +361,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Coredump](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
 - [Kvm](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
 - [Pcileech](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+- [sys-mitm](https://github.com/ClaraCrazy/qubes-docs/blob/main/sys-mitm.md) - A man-in-the-middle Qube for your traffic analysis needs.
 - [Qemu_procfs](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 - [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
