@@ -53,6 +53,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
 - [Qubes OS GitHub Documentation](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 - [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
+- [Developer Books](https://www.qubes-os.org/doc/devel-books/) - A list of various books that might be useful in learning some basics needed for Qubes development.
 
 ## System Information & Requirements
 
