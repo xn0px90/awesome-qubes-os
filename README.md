@@ -37,10 +37,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Xen Exploitation](#xen-exploitation)
     - [Web articles](#web-articles)
   - [Optics and Extra Info](#optics-and-extra-info)
-  - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
   - [Companies using Qubes OS](#companies-using-qubes-os)
   - [Social media](#social-media)
+  - [Qubes OS Legends](#qubes-os-legends)
   - [Contributing](#contributing)
   - [Releases](#releases)
   - [Adventure Further](#adventure-further)
@@ -420,23 +420,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
   - [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
 
-## Qubes OS Legends
-
-- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
-  - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
-  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
-    Part One
-  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
-    Part Two
-  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
-- [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
-- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-- [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
-- [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
-
 ## Training and Materials
 
 - [Training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
@@ -454,6 +437,23 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Companies using Qubes OS
 
 - [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
+
+## Qubes OS Legends
+
+- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
+  - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
+    Part One
+  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+    Part Two
+  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
+- [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
+- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+- [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
+- [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
+- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## Social media
 
