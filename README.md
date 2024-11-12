@@ -435,25 +435,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
 
 ## Companies using Qubes OS
-
 - [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
 
-## Qubes OS Legends
-
-- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
-  - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
-  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
-    Part One
-  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
-    Part Two
-  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
-- [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
-- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-- [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
-- [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## Social media
 
@@ -475,6 +458,23 @@ The Qubes OS Project has a presence on the following social media platforms:
 - `#xen`      channel on irc.oftc.net via traditional IRC clients.
 - `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 - `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
+
+## Qubes OS Legends
+
+- [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
+  - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
+  - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
+    Part One
+  - [Preventing and Detecting Xen Hypervisor Subversions [PDF]](https://invisiblethingslab.com/resources/bh08/part2.pdf) - Xen 0wning Trilogy
+    Part Two
+  - [Bluepilling the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
+- [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
+- [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+- [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
+- [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
+- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## Releases
 
