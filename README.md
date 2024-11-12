@@ -261,7 +261,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Fedora 40 Minimal(OpenVPN)](https://forum.qubes-os.org/t/fedora-40-minimal-openvpn-qubes-4-2-six-easy-steps/27795) - Qubes 4.2 - Six Easy Steps!
 
 ### VLESS
-- [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems. It is needed when wireguard is blocked.
+- [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems.
 
 
 ### Tor
