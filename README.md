@@ -475,7 +475,8 @@ The Qubes OS Project has a presence on the following social media platforms:
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
   - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-  - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
+  - [Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
+  - [Notes](https://github.com/unman/notes) - a good reference
 - [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 - [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
