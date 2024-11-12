@@ -206,7 +206,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Suckless dwm](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 - [QubesOS Autostart Menu](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
 - [Qubes-Scripts](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
-- [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
+- [Playback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
+- [qubes-salt-video-playback](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - Qubes SaltStack configuration of Videos Playback VM
 - [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 - [Wayland agent](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the [Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 - [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
@@ -343,7 +344,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Virtual Machine Formulae](https://www.qubes-os.org/doc/salt/#virtual-machine-formulae) - Salt allows administrators to easily configure their systems. In this guide we will show how it is set up and how you can modify it for your own purpose.
 - [Configuration Management](https://docs.gonzalobulnes.com/configuration_management.html) - A collection of guides about creating Salt formulas in Qubes OS and distributing them as RPM packages to take advantage of the secure updates mechanism for dom0.
 - [Offcial Salt Documentation](https://docs.saltproject.io/en/latest/contents.html) - Salt is an event-driven automation tool and framework to deploy, configure, and manage complex IT systems.
-- [Official Salt User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - Salt user guide 
+- [Official Salt User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - Salt user guide
+- [qusal](https://github.com/ben-grande/qusal) - Salt Formulas for Qubes OS. 
 - [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
 - [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
 - [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
@@ -433,6 +435,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Training and Materials
 
 - [Training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+-[Qubes for Journalists](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
 - [Qubes-diagrams](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
 - [Qubes-artwork](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 - [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
