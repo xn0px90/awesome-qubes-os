@@ -34,9 +34,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Unikernel-like](#unikernel-like)
   - [Qubes OS Server](#qubes-os-server)
   - [Exploitation Tools](#exploitation-tools)
-  - [Optics and Extra Info](#optics-and-extra-info)
     - [Xen Exploitation](#xen-exploitation)
     - [Web articles](#web-articles)
+  - [Optics and Extra Info](#optics-and-extra-info)
   - [Qubes OS Legends](#qubes-os-legends)
   - [Training and Materials](#training-and-materials)
   - [Companies using Qubes OS](#companies-using-qubes-os)
@@ -372,6 +372,24 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Radare2](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
+### Xen Exploitation
+
+- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
+- [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
+- [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
+- [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
+- [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
+- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+- [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
+- [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
+
+
+### Web articles
+
+- [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
+- [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
+- [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
 ## Optics and Extra Info
 ### Qubes OS Summit - 3mdeb Summit videos
   - [Qubes OS Summit 2024](https://youtu.be/lJFxtdan9qY?list=PLuISieMwVBpJmIaHgyv7yKDwrHpqym9Qh) - Day 1
@@ -399,26 +417,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
   - [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
 
-### Xen Exploitation
-
-- [Advanced Exploitation](https://www.youtube.com/watch?v=6Ld5CiInrcI) - Xen Hypervisor VM Escape
-- [Blackhat 2010 ](https://www.youtube.com/watch?v=sTC9x5hYYFo) - Hacking the Hypervisor
-- [Blackhat 2014](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [[Website Slides]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf) - Lessons Learned from Eight Years of Breaking Hypervisors
-- [Blackhat 2015](https://www.youtube.com/watch?v=nyW3eTobXAI) - [[PDF Slides]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf) - Attacking Hypervisors Using Firmware And Hardware
-- [Ouroboros](https://www.youtube.com/watch?v=kt3kX94kWcM) - Tearing Xen Hypervisor With the Snake
-- [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [[PDF Slides]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-- [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [[PDF Slides]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
-- [XenPwn](https://www.youtube.com/watch?v=qxz8MzE3QME) - [[PDF Slide]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf) - Breaking Paravirtualized Devices
-- [Hypervisor Vulnerability Research [PDF]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf) - State of the Art
-
-### Web articles
-
-- [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
-- [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
-- [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
-
 ## Qubes OS Legends
-- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+
 - [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
   - [Blog](https://blog.invisiblethings.org/) - Personal Blog.
   - [Subverting the Xen Hypervisor [PDF]](https://invisiblethingslab.com/resources/bh08/part1.pdf) - Xen 0wning Trilogy
@@ -432,6 +432,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
   - [Unman Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
 - [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
+- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
 
 ## Training and Materials
 
