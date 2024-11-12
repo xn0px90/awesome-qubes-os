@@ -225,7 +225,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nvidia-troubleshooting](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md) - Nvidia Troubleshooting Guide
 - [Gaming HVM](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)) - HVM for gaming!
 - [Salt: automating NVIDIA GPU passthrough](https://forum.qubes-os.org/t/wip-salt-automating-nvidia-gpu-passthrough/30038) - This “guide” aims to explore and give a practical example of leveraging SaltStack to achieve the same goal as NVIDIA GPU passthrough into Linux HVMs for CUDA applications.
-- [Software RAID (mdadm) Qubes Installation Procedure](https://forum.qubes-os.org/t/software-raid-mdadm-qubes-installation-procedure-wip/27886) - CLI & Software Raid installation procedure.
 - [Qubes SaltStack configuration of Videos Playback VM](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - An mpv salt start step-by-step easy guide.
 - [Improve video playback performance including YouTube (ytfzf)](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube-ytfzf/21946/1) - This guide will show you how to install the mpv player and use it with maximum performance.
 - [GPU passthrough with lots of RAM](https://forum.qubes-os.org/t/quick-howto-gpu-passthrough-with-lots-of-ram/21156) - GPU passthru with max RAM
@@ -344,6 +343,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [qubes-remote-support-receiver dom0 scripts](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
 - [Web VNC](https://forum.qubes-os.org/t/remote-qubes-user-testing-running-qubes-in-the-browser/13817) - Running Qubes in the Browser
 - [VNC](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+- [Software RAID (mdadm) Qubes Installation Procedure](https://forum.qubes-os.org/t/software-raid-mdadm-qubes-installation-procedure-wip/27886) - CLI & Software Raid installation procedure.
 
 
 ## Exploitation Tools
