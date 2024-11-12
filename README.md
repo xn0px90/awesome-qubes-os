@@ -393,7 +393,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Glitches in the Matrix](https://www.cpl0.com/blog/?p=46) - Escape via NMI
 - [Xen exploitation part 1: XSA-105](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html) - From nobody to root
 - [Xen exploitation part 2: XSA-148](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html) - From guest to host
+
 ## Optics and Extra Info
+
 ### Qubes OS Summit - 3mdeb Summit videos
   - [Qubes OS Summit 2024](https://youtu.be/lJFxtdan9qY?list=PLuISieMwVBpJmIaHgyv7yKDwrHpqym9Qh) - Day 1
   - [Qubes OS Summit 2024](https://youtu.be/9AkBeBwxdA0?list=PLuISieMwVBpL5S7kPUHKenoFj_YJ8Y0_d) - Day 2
@@ -409,6 +411,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Marek Marczykowski-Górecki: Host and Guest Suspend Under Xen - S3 and S0ix](https://youtu.be/4UUEt4rll6U?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Marek Marczykowski-Górecki: Linux Stubdomains Status Update](https://youtu.be/3Lg5iTmXl-I?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
   - [Full xen project summit 2024 playlist](https://www.youtube.com/playlist?list=PLQMQQsKgvLntZiKoELFs22Mtk-tBNNOMJ)
+
 ### UX - User Experience
   - [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
   - [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
@@ -419,7 +422,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
   - [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
   - [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
-
+  - [Backups in Qubes](https://forum.qubes-os.org/t/backups-in-qubes-video/23234) - Learn how and why to back up your data on Qubes OS. 
 ## Training and Materials
 
 - [Training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
