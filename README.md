@@ -192,6 +192,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
 - [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
 - [Qubes Shutdown Idle Script](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness_monitor), shuts it down.
+- [qubes-ssh-agent](https://github.com/unman/qubes-ssh-agent) - This is an alternative approach to the existing qubes split-ssh.
 
 ## Customization
 - [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/) - This is an rpm package for awesomewm with the patches for Qubes.
