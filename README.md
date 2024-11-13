@@ -446,6 +446,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
   [The Guardian]
 - [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
+- [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
 
 ## Companies using Qubes OS
 - [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
