@@ -218,6 +218,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [CPU monitor per VMs](https://forum.qubes-os.org/t/cpu-monitor-per-vms/22829) - Individual VM monitoring.
 - [Custom App entries for the Q Menu](https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/) - App menu shortcut troubleshooting.
 - [xfce dark mode ](https://forum.qubes-os.org/t/guide-xfce-global-dark-mode-in-qubes-4-0-4-1/10757) - Xfce global dark mode in Qubes
+- [Quick Quality-of-Life Improvements](https://forum.qubes-os.org/t/quick-quality-of-life-improvements/23380) - Custom scripts for everyday things.
 
 ## GPU
 
@@ -433,8 +434,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
   - [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
   - [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
   - [Backups in Qubes](https://forum.qubes-os.org/t/backups-in-qubes-video/23234) - Learn how and why to back up your data on Qubes OS. 
-## Training and Materials
 
+## Training and Materials
 - [Training-materials](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
 -[Qubes for Journalists](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
 - [Qubes-diagrams](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
@@ -490,7 +491,7 @@ The Qubes OS Project has a presence on the following social media platforms:
   - [Notes](https://github.com/unman/notes) - a good reference
   - [Shaker](https://github.com/unman/shaker) - Shaker!
 - [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+- [ClaraCrazy](https://github.com/claracrazy/qubes-docs) - Qubes Guru & Just amazing!.
 
 ## Releases
 
