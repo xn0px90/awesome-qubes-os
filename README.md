@@ -413,6 +413,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Optics and Extra Info
 
 ### Qubes OS Summit - 3mdeb Summit videos
+  - [Qubes OS Summit 2025](https://www.youtube.com/watch?v=HwisqKFEQ0g) - Day 1
+  - [Qubes OS Summit 2025](https://www.youtube.com/watch?v=GWIKfr97Ezw&list=PLuISieMwVBpLns-3Lcw2MqLCkQ78r-ZdO) - Day 2
   - [Qubes OS Summit 2024](https://youtu.be/lJFxtdan9qY?list=PLuISieMwVBpJmIaHgyv7yKDwrHpqym9Qh) - Day 1
   - [Qubes OS Summit 2024](https://youtu.be/9AkBeBwxdA0?list=PLuISieMwVBpL5S7kPUHKenoFj_YJ8Y0_d) - Day 2
   - [Qubes OS Summit 2023](https://www.youtube.com/watch?v=_UxndcxIngw) - Day 1
