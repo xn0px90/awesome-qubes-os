@@ -236,6 +236,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Qubes SaltStack configuration of Videos Playback VM](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - An mpv salt start step-by-step easy guide.
 - [Improve video playback performance including YouTube (ytfzf)](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube-ytfzf/21946/1) - This guide will show you how to install the mpv player and use it with maximum performance.
 - [GPU passthrough with lots of RAM](https://forum.qubes-os.org/t/quick-howto-gpu-passthrough-with-lots-of-ram/21156) - GPU passthru with max RAM
+- [Virtualised Intel GPU with SR-IOV](https://forum.qubes-os.org/t/virtualised-intel-gpu-with-sr-iov/40649/1) - A Guide to virtualise your Intel GPU. Heavily based on Lenovo ThinkPad T14 Gen 5 
   
 ## ML, LLM & AI 
 - [Running local LLMs with or without GPU acceleration](https://forum.qubes-os.org/t/running-local-llms-with-or-without-gpu-acceleration/23283) - This guide explains how to install text-generation-webui (oobabooga) on Qubes OS.
