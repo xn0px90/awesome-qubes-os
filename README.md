@@ -494,7 +494,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 - [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 - [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 - [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-  - [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+  - [Templates](https://qubes.3isec.org/Templates_4.3/) - Unman custom templates.
   - [Install Scripts](https://github.com/unman/shaker) -  Unman install scripts
   - [Notes](https://github.com/unman/notes) - a good reference
   - [Shaker](https://github.com/unman/shaker) - Shaker!
