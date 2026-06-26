@@ -222,6 +222,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Custom App entries for the Q Menu](https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/) - App menu shortcut troubleshooting.
 - [xfce dark mode ](https://forum.qubes-os.org/t/guide-xfce-global-dark-mode-in-qubes-4-0-4-1/10757) - Xfce global dark mode in Qubes
 - [Quick Quality-of-Life Improvements](https://forum.qubes-os.org/t/quick-quality-of-life-improvements/23380) - Custom scripts for everyday things.
+- [VSCode extension](https://github.com/thom-gdpt/qubes-vscode) - VSCode extension to add QubesOS context menu actions (copy/move to other qubes...)
 
 ## GPU
 
